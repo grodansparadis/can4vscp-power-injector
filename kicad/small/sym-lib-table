@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "power_injector_rev_c-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/power_injector_rev_c-eagle-import.kicad_sym")(options "")(descr ""))
+)
