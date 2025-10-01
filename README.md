@@ -4,7 +4,7 @@
 
 # Abstract
 
-With the power injector you can power the CAN4VSCP bus and also power up to 16 CAN4VSCP modules using the daisy chain connector. This is a perfect companion board to use when you need to connect a number of CAN4VSCP boards in a cabinet and then connect them to the world.
+With the power injector you can power the CAN4VSCP bus and also power up to 16 CAN4VSCP modules using the inter module connector. This is a perfect companion board to use when you need to connect a number of CAN4VSCP boards in a cabinet and then connect them to the world.
 
 It have two 120 ohm terminations that can be activated if needed and two RJ-45 connectors for easy connection.
 
@@ -24,7 +24,7 @@ This project is part of the <a href="http://www.vscp.org">VSCP (Very Simple Cont
   * [User Manual](https://grodansparadis.github.io/can4vscp-power-injector/#)
 
 ### Schematic, PCB, 3D files etc
-  * [Schematics reversion C](./eagle/beijing_sch_rev_B.png)
+  * [Schematics reversion C](./docs/images/power_injector_rev_c.svg)
  * Hardware design files is made in [KiCad](https://kicad.org) and can be found in the `kicad` directory. Valid from reversion C of the hardware.
    * Gerber files for PCB production can be found in the `gerber` directory (in the `kicad` folder).
  * Eagle schema and board files for reversion A, B and C can be found in the `eagle` directory. They are no longer actively updated.

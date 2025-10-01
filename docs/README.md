@@ -6,14 +6,16 @@
 
 ![Power Injector](./images/power_injector8_800.png)  
 
-Power Injector is a module that can power the CAN4VSCP bus and also power up to 16 CAN4VSCP modules using the daisy chain connector. This is a perfect companion board to use when you need to connect a number of CAN4VSCP boards in a cabinet and then connect them to the world.
+The power injector module is a part of the CAN4VSCP family of modules. The module is designed to power the CAN4VSCP bus.Three versions of the module exists, a small version that can power the bus and up to 2 CAN4VSCP modules, a medium version that can power the bus and up to 8 CAN4VSCP modules and a big version that can power the bus and up to 16 CAN4VSCP modules. Only the big version is currently active.
 
-The module can be powered from 7 to 28 VDC and can deliver up to 2A on the CAN4VSCP bus. The module has a number of safety features like over current shutdown and reverse polarity protection.
+**Power Injector big** is a module that can power the CAN4VSCP bus and also power up to 16 CAN4VSCP modules using the inter module connector. This is a perfect companion board to use when you need to connect a number of CAN4VSCP boards in a cabinet and then connect them to the world.
+
+The module can be powered from 7 to 28 VDC and can deliver up to 500 mA on the CAN4VSCP bus. The module has a number of safety features like over current shutdown (800mA) and reverse polarity protection.
 
 
 * [Repository for the module](https://github.com/grodansparadis/can4vscp-accra)
 * This manual is available [here](https://grodansparadis.github.io/can4vscp-power-injector/)
-* Latest schema for the module is available [here](https://github.com/grodansparadis/can4vscp-power-injector/tree/master/eagle/eagle_big)
+* Latest schema for the module is available [here](./images/power_injector_rev_c.svg)
 
 
 ## VSCP
@@ -32,14 +34,13 @@ If you use VSCP please consider contributing resources or time to the project ([
 
 ## Buy a module
 
-<img src="./images/grodan_logo.png" alt="Grodans PAradis AB" width="200"/>
+<img src="./images/grodan_logo.png" alt="Grodans PAradis AB" width="100"/>
 
 Ready made modules can be bought from [Grodans Paradis AB](https://www.grodansparadis.com).
 
 ## Document license
 
 This document is licensed under [Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/) and can be freely copied, redistributed, remixed, transformed, built upon as long as you give credits to the author.
-
 
 
 [filename](./bottom-copyright.md ':include')

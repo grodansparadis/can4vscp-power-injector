@@ -3,18 +3,16 @@ You need
 
   * RJ-45 patch cables or similar.
   * A stable +9V - +28V DC power source.
-  * A host computer with a serial or USB interface.
+  * Some CAN4VSCP modules to connect to the bus.
 
-The Accra module is powered from the CAN4VSCP bus. [This
-article](https://github.com/grodansparadis/vscp/wiki/Connecting-CAN4VSCP-devices-together)
-have information on how the bus is powered and set up. Follow it for a
-reliable setup. Don't forget the 120 ohm terminators at each end of the
-bus. <span class="underline">They are important\!</span> You can
-activate the on board terminator on the Accra module if it is located at
-one end of your bus.
+![](./images/power_connector.png)
 
-When you power the module by inserting the RJ-45 cable the red LED on
-the board should light up to indicate it is powered. This is just a
+The Power Injector module is powered from either a power connector (center pin is plus) or from  CAN4VSCP bus on one (**only one**) of the RJ-45 connectors. Think of the RJ-45 connectors as they are sitting on each end of a bus and that the terminations are on the same end as the power injector. 
+
+
+[This article](https://github.com/grodansparadis/vscp/wiki/Connecting-CAN4VSCP-devices-together) have information on how the bus is powered and set up. Follow it for a reliable setup. Don't forget the 120 ohm terminators at each end of the bus. <span class="underline">They are important\!</span> 
+
+When you power the module by inserting the RJ-45 cable the red LED on the board should light up to indicate it is powered. This is just a
 power indicator LED. When you power the board for the first time the
 green led starts to blink to indicate that the module search for a
 nickname. During normal operation this LED should light steady.
