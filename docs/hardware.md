@@ -26,6 +26,11 @@ Schematics: Rev C
 
 ## Connectors
 
+### Power jack
+![](./images/power-jack-small.png)
+
+The power connector is a standard 2.1/5.5 mm DC power jack with center pin positive. The voltage range is +9VDC to +28VDC. Maximum current is 500 mA. The power supply should be able to deliver at least 1A to have some margin.
+
 ### RJ-XX pin-out
 
 The unit is powered over the CAN4VSCP bus or via the power connector. The CAN4VSCP normally uses CAT5 or better twisted pair cable. You can use other cables if you which. The important thing is that the CANH and CANL signals uses a twisted cable. For connectors you can use RJ10, RJ11, RJ12 or the most common RJ45 connectors.
