@@ -53,7 +53,13 @@
           "min_clearance": 0.5
         }
       },
-      "diff_pair_dimensions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
       "drc_exclusions": [],
       "meta": {
         "filename": "board_design_settings.json",
@@ -188,7 +194,10 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [],
+      "track_widths": [
+        0.0,
+        1.0
+      ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
           "corner_radius_percentage": 80,
@@ -215,7 +224,12 @@
           "spacing": 0.6
         }
       },
-      "via_dimensions": [],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        }
+      ],
       "zones_allow_external_fillets": false
     },
     "ipc2581": {
@@ -511,7 +525,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -643,15 +657,15 @@
       {
         "filename": "power_injector_rev_c.kicad_sch",
         "name": "power_injector_rev_c",
-        "uuid": "9869746d-4b47-4a0d-aa5e-3b217217de94"
+        "uuid": "47bd3032-e417-4aa5-813e-5d6dc8479352"
       }
     ],
-    "used_designators": "",
+    "used_designators": "R4,J1,J8-9,#PWR27-28",
     "variants": []
   },
   "sheets": [
     [
-      "9869746d-4b47-4a0d-aa5e-3b217217de94",
+      "47bd3032-e417-4aa5-813e-5d6dc8479352",
       "power_injector_rev_c"
     ]
   ],

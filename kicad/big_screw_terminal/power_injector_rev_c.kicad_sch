@@ -1,32 +1,26 @@
 (kicad_sch
-	(version 20260306)
+	(version 20250114)
 	(generator "eeschema")
-	(generator_version "10.0")
+	(generator_version "9.0")
 	(uuid "9869746d-4b47-4a0d-aa5e-3b217217de94")
 	(paper "User" 309.347 218.491)
 	(lib_symbols
 		(symbol "power_injector_rev_c-eagle-import:+12V"
-			(power global)
+			(power)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" "#P+"
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "Value" ""
 				(at -2.54 -5.08 90)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.778 1.5113)
@@ -36,41 +30,33 @@
 			)
 			(property "Footprint" ""
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "Datasheet" ""
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "Description" "SUPPLY SYMBOL"
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "ki_locked" ""
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -151,12 +137,8 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" "X"
 				(at 2.54 -0.762 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.524 1.2954)
@@ -166,53 +148,43 @@
 			)
 			(property "Value" ""
 				(at -0.762 1.397 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.778 1.5113)
 					)
 					(justify left bottom)
+					(hide yes)
 				)
 			)
 			(property "Footprint" "power_injector_rev_c:22-23-2021"
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "Datasheet" ""
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "Description" ".100\" (2.54mm) Center Header - 2 Pin"
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "ki_locked" ""
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -289,12 +261,8 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" "X"
 				(at 2.54 -0.762 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.524 1.2954)
@@ -304,53 +272,43 @@
 			)
 			(property "Value" ""
 				(at -0.762 1.397 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.778 1.5113)
 					)
 					(justify left bottom)
+					(hide yes)
 				)
 			)
 			(property "Footprint" "power_injector_rev_c:22-23-2041"
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "Datasheet" ""
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "Description" ".100\" (2.54mm) Center Header - 4 Pin"
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "ki_locked" ""
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -491,12 +449,8 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" ""
 				(at 0 10.16 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.778 1.5113)
@@ -506,8 +460,6 @@
 			)
 			(property "Value" ""
 				(at 0 -13.716 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.778 1.5113)
@@ -517,41 +469,33 @@
 			)
 			(property "Footprint" "power_injector_rev_c:RJ-45"
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "Datasheet" ""
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "Description" ""
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "ki_locked" ""
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1286,12 +1230,8 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" "D"
 				(at 2.54 0.4826 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.778 1.5113)
@@ -1301,8 +1241,6 @@
 			)
 			(property "Value" ""
 				(at 2.54 -2.3114 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.778 1.5113)
@@ -1312,41 +1250,33 @@
 			)
 			(property "Footprint" "power_injector_rev_c:SMB"
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "Datasheet" ""
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "Description" "DIODE"
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "ki_locked" ""
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1454,27 +1384,21 @@
 			(embedded_fonts no)
 		)
 		(symbol "power_injector_rev_c-eagle-import:GND"
-			(power global)
+			(power)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" "#GND"
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "Value" ""
 				(at -2.54 -2.54 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.778 1.5113)
@@ -1484,41 +1408,33 @@
 			)
 			(property "Footprint" ""
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "Datasheet" ""
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "Description" "SUPPLY SYMBOL"
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "ki_locked" ""
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1563,12 +1479,8 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" "J"
 				(at -7.62 5.08 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.778 1.5113)
@@ -1578,8 +1490,6 @@
 			)
 			(property "Value" ""
 				(at -7.62 -5.08 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.778 1.5113)
@@ -1589,41 +1499,33 @@
 			)
 			(property "Footprint" "power_injector_rev_c:SPC4077"
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "Datasheet" ""
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "Description" "DC POWER JACK\nPower Jack, DC, Right Angle, Through Hole, Rated 5A at 16VDC, PC Terminals\n\nDistributor: Farnell (www.Farnell.de)\nDrawing: 84N1161.pdf / 84N1162.pdf\nManufacturer: SPC Technology (www.spctechnology.com)\nType: SPC4077 / SPC 4078"
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "ki_locked" ""
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1800,16 +1702,16 @@
 					)
 				)
 				(pin passive line
-					(at 5.08 -2.54 180)
+					(at 5.08 2.54 180)
 					(length 5.08)
-					(name "1"
+					(name "3"
 						(effects
 							(font
 								(size 0 0)
 							)
 						)
 					)
-					(number "1"
+					(number "3"
 						(effects
 							(font
 								(size 1.524 1.524)
@@ -1836,16 +1738,16 @@
 					)
 				)
 				(pin passive line
-					(at 5.08 2.54 180)
+					(at 5.08 -2.54 180)
 					(length 5.08)
-					(name "3"
+					(name "1"
 						(effects
 							(font
 								(size 0 0)
 							)
 						)
 					)
-					(number "3"
+					(number "1"
 						(effects
 							(font
 								(size 1.524 1.524)
@@ -1860,12 +1762,8 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" "LED"
 				(at 3.556 -4.572 90)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.778 1.5113)
@@ -1875,8 +1773,6 @@
 			)
 			(property "Value" ""
 				(at 5.715 -4.572 90)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.778 1.5113)
@@ -1886,41 +1782,33 @@
 			)
 			(property "Footprint" "power_injector_rev_c:CHIP-LED0805"
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "Datasheet" ""
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "Description" "LED\n\nOSRAM:\n- CHIPLED\nLG R971, LG N971, LY N971, LG Q971, LY Q971, LO R971, LY R971 LH N974, LH R974\nLS Q976, LO Q976, LY Q976\nLO Q996\n- Hyper CHIPLED\nLW Q18S\nLB Q993, LB Q99A, LB R99A\n- SideLED\nLS A670, LO A670, LY A670, LG A670, LP A670\nLB A673, LV A673, LT A673, LW A673\nLH A674\nLY A675\nLS A676, LA A676, LO A676, LY A676, LW A676\nLS A679, LY A679, LG A679\n-  Hyper Micro SIDELED®\nLS Y876, LA Y876, LO Y876, LY Y876\nLT Y87S\n- SmartLED\nLW L88C, LW L88S\nLB L89C, LB L89S, LG L890\nLS L89K, LO L89K, LY L89K\nLS L896, LA L896, LO L896, LY L896\n- TOPLED\nLS T670, LO T670, LY T670, LG T670, LP T670\nLSG T670, LSP T670, LSY T670, LOP T670, LYG T670\nLG T671, LOG T671, LSG T671\nLB T673, LV T673, LT T673, LW T673\nLH T674\nLS T676, LA T676, LO T676, LY T676, LB T676, LH T676, LSB T676, LW T676\nLB T67C, LV T67C, LT T67C, LS T67K, LO T67K, LY T67K, LW E67C\nLS E67B, LA E67B, LO E67B, LY E67B, LB E67C, LV E67C, LT E67C\nLW T67C\nLS T679, LY T679, LG T679\nLS T770, LO T770, LY T770, LG T770, LP T770\nLB T773, LV T773, LT T773, LW T773\nLH T774\nLS E675, LA E675, LY E675, LS T675\nLS T776, LA T776, LO T776, LY T776, LB T776\nLHGB T686\nLT T68C, LB T68C\n- Hyper Mini TOPLED®\nLB M676\n- Mini TOPLED Santana®\nLG M470\nLS M47K, LO M47K, LY M47K\n\nSource: http://www.osram.convergy.de\n\nLUXEON:\n- LUMILED®\nLXK2-PW12-R00, LXK2-PW12-S00, LXK2-PW14-U00, LXK2-PW14-V00\nLXK2-PM12-R00, LXK2-PM12-S00, LXK2-PM14-U00\nLXK2-PE12-Q00, LXK2-PE12-R00, LXK2-PE12-S00, LXK2-PE14-T00, LXK2-PE14-U00\nLXK2-PB12-K00, LXK2-PB12-L00, LXK2-PB12-M00, LXK2-PB14-N00, LXK2-PB14-P00, LXK2-PB14-Q00\nLXK2-PR12-L00, LXK2-PR12-M00, LXK2-PR14-Q00, LXK2-PR14-R00\nLXK2-PD12-Q00, LXK2-PD12-R00, LXK2-PD12-S00\nLXK2-PH12-R00, LXK2-PH12-S00\nLXK2-PL12-P00, LXK2-PL12-Q00, LXK2-PL12-R00\n\nSource: www.luxeon.com\n\nKINGBRIGHT:\n\nKA-3528ASYC\nSource: www.kingbright.com"
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "ki_locked" ""
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -2103,12 +1991,8 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" "R"
 				(at -3.81 1.4986 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.778 1.5113)
@@ -2118,8 +2002,6 @@
 			)
 			(property "Value" ""
 				(at -3.81 -3.302 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.778 1.5113)
@@ -2129,41 +2011,33 @@
 			)
 			(property "Footprint" "power_injector_rev_c:0204_5"
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "Datasheet" ""
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "Description" "RESISTOR, European symbol"
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "ki_locked" ""
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -2262,12 +2136,8 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" "R"
 				(at -3.81 1.4986 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.778 1.5113)
@@ -2277,8 +2147,6 @@
 			)
 			(property "Value" ""
 				(at -3.81 -3.302 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.778 1.5113)
@@ -2288,41 +2156,33 @@
 			)
 			(property "Footprint" "power_injector_rev_c:R0805"
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "Datasheet" ""
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "Description" "RESISTOR, European symbol"
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "ki_locked" ""
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -4923,17 +4783,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2021")
 		(at 101.6 45.72 180)
 		(unit 2)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "01d79075-3a1d-4b2c-bbb2-6393610805ff")
 		(property "Reference" "TERM-L0"
 			(at 104.14 46.482 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -4943,47 +4799,39 @@
 		)
 		(property "Value" "22-23-2021"
 			(at 102.362 47.117 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2021"
 			(at 101.6 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 101.6 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 101.6 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -4993,7 +4841,7 @@
 			(uuid "d674314e-92d0-4803-bff5-8c2534e6dbc7")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "TERM-L0")
 					(unit 2)
@@ -5005,17 +4853,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 261.62 121.92 0)
 		(unit 4)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "022f548b-11b4-4f71-a6c7-18c74bb2f9c0")
 		(property "Reference" "X6"
 			(at 264.16 122.682 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -5025,47 +4869,39 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 260.858 120.523 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 261.62 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 261.62 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 261.62 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -5081,7 +4917,7 @@
 			(uuid "7c785568-c35c-48a5-8b1d-fb8e900e0b31")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X6")
 					(unit 4)
@@ -5093,17 +4929,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 213.36 40.64 180)
 		(unit 4)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "0d79eb66-8afd-4467-84d0-f7325f30d5f3")
 		(property "Reference" "X10"
 			(at 215.9 41.402 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -5113,47 +4945,39 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 214.122 42.037 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 213.36 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 213.36 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 213.36 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -5169,7 +4993,7 @@
 			(uuid "d6a0dbd8-20cc-48f1-9410-a05ab8cdffa9")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X10")
 					(unit 4)
@@ -5181,17 +5005,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 213.36 27.94 180)
 		(unit 3)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "10e69f1e-c24d-44a1-ad3c-bfe443bb4815")
 		(property "Reference" "X9"
 			(at 215.9 28.702 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -5201,47 +5021,39 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 214.122 29.337 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 213.36 27.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 213.36 27.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 213.36 27.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -5257,7 +5069,7 @@
 			(uuid "8e5298a0-54f5-4cb4-a38d-e5d3e82d4614")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X9")
 					(unit 3)
@@ -5269,17 +5081,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 261.62 50.8 0)
 		(unit 4)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "17bda1ca-abb7-4342-ab14-5c42194753f5")
 		(property "Reference" "X2"
 			(at 264.16 51.562 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -5289,47 +5097,39 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 260.858 49.403 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 261.62 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 261.62 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 261.62 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -5345,7 +5145,7 @@
 			(uuid "13d04199-d10a-4cfe-89d5-1a06892a0f5e")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X2")
 					(unit 4)
@@ -5357,17 +5157,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 213.36 30.48 180)
 		(unit 2)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "195aa3a2-3e0c-4c48-9b6c-dab89cdc9286")
 		(property "Reference" "X9"
 			(at 215.9 31.242 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -5377,47 +5173,39 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 214.122 31.877 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 213.36 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 213.36 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 213.36 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -5433,7 +5221,7 @@
 			(uuid "37c23891-b6e4-4c06-888a-422096e2547a")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X9")
 					(unit 2)
@@ -5445,17 +5233,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 261.62 63.5 0)
 		(unit 2)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "1ce863ef-465a-4a30-89a2-3fa25f4e5bae")
 		(property "Reference" "X3"
 			(at 264.16 64.262 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -5465,47 +5249,39 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 260.858 62.103 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 261.62 63.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 261.62 63.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 261.62 63.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -5521,7 +5297,7 @@
 			(uuid "a28658f1-bf33-4e33-9a31-834316935296")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X3")
 					(unit 2)
@@ -5533,17 +5309,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 261.62 139.7 0)
 		(unit 4)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "1cf6f229-59f2-4643-af61-3c37cbe4aa0e")
 		(property "Reference" "X7"
 			(at 264.16 140.462 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -5553,47 +5325,39 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 260.858 138.303 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 261.62 139.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 261.62 139.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 261.62 139.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -5609,7 +5373,7 @@
 			(uuid "ec58f1f1-6313-43c9-b07d-a026fb95c00b")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X7")
 					(unit 4)
@@ -5621,17 +5385,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 213.36 101.6 180)
 		(unit 2)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "1d27dc11-2e82-43ba-b741-f8a9c1f6f921")
 		(property "Reference" "X13"
 			(at 215.9 102.362 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -5641,47 +5401,39 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 214.122 102.997 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 213.36 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 213.36 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 213.36 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -5697,7 +5449,7 @@
 			(uuid "ca7fdbda-54ff-453b-a337-3f1fbf45aaa5")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X13")
 					(unit 2)
@@ -5709,17 +5461,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 261.62 43.18 0)
 		(unit 1)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "1ff459e5-e1c9-4171-a567-062d14db4799")
 		(property "Reference" "X2"
 			(at 264.16 43.942 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -5729,8 +5477,6 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 260.858 41.783 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -5740,35 +5486,29 @@
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 261.62 43.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 261.62 43.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 261.62 43.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -5784,7 +5524,7 @@
 			(uuid "6ddd8189-1111-405d-8e35-b45009c6b7b5")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X2")
 					(unit 1)
@@ -5796,17 +5536,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 261.62 101.6 0)
 		(unit 3)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "214e6fdb-8bf5-4264-a834-6f25d8852626")
 		(property "Reference" "X5"
 			(at 264.16 102.362 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -5816,47 +5552,39 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 260.858 100.203 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 261.62 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 261.62 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 261.62 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -5872,7 +5600,7 @@
 			(uuid "f033def8-4a13-4004-8437-02000f44f4f2")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X5")
 					(unit 3)
@@ -5884,17 +5612,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 261.62 78.74 0)
 		(unit 1)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "2579ecb5-2599-4be6-83d9-e26014b3657e")
 		(property "Reference" "X4"
 			(at 264.16 79.502 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -5904,8 +5628,6 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 260.858 77.343 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -5915,35 +5637,29 @@
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 261.62 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 261.62 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 261.62 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -5959,7 +5675,7 @@
 			(uuid "1e158efa-1fb6-4a16-a137-d55f657f7d27")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X4")
 					(unit 1)
@@ -5971,17 +5687,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 213.36 48.26 180)
 		(unit 1)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "28b0035c-46cd-4b1b-82a8-a2759401dddb")
 		(property "Reference" "X10"
 			(at 215.9 49.022 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -5991,8 +5703,6 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 212.598 46.863 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -6002,35 +5712,29 @@
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 213.36 48.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 213.36 48.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 213.36 48.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -6046,7 +5750,7 @@
 			(uuid "c301c76a-eed9-40c6-9cad-ce28dcfb9ec4")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X10")
 					(unit 1)
@@ -6058,17 +5762,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 261.62 157.48 0)
 		(unit 4)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "29b9a785-5738-45f0-9465-062bb753df72")
 		(property "Reference" "X8"
 			(at 264.16 158.242 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -6078,47 +5778,39 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 260.858 156.083 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 261.62 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 261.62 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 261.62 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -6134,7 +5826,7 @@
 			(uuid "3faa8051-bedf-4d54-9435-bc7726aa8d21")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X8")
 					(unit 4)
@@ -6146,17 +5838,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:R-EU_R0805")
 		(at 124.46 40.64 90)
 		(unit 1)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "2ba42ca1-c211-433b-80d1-8f4f3f850706")
 		(property "Reference" "R2"
 			(at 122.9614 44.45 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -6166,8 +5854,6 @@
 		)
 		(property "Value" "120"
 			(at 127.762 44.45 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -6177,35 +5863,29 @@
 		)
 		(property "Footprint" "power_injector_rev_c:R0805"
 			(at 124.46 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 124.46 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 124.46 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -6215,7 +5895,7 @@
 			(uuid "a357be12-2732-46aa-9972-aff0d89f079f")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "R2")
 					(unit 1)
@@ -6227,17 +5907,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 261.62 134.62 0)
 		(unit 2)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "2f1a920a-5662-4dc3-b6d5-f588e6342f64")
 		(property "Reference" "X7"
 			(at 264.16 135.382 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -6247,47 +5923,39 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 260.858 133.223 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 261.62 134.62 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 261.62 134.62 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 261.62 134.62 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -6303,7 +5971,7 @@
 			(uuid "ec5a8304-28b8-414b-80b5-edc5596e6152")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X7")
 					(unit 2)
@@ -6315,17 +5983,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:R-EU_R0805")
 		(at 35.56 68.58 90)
 		(unit 1)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "324bbd0d-a3ee-4754-8ad4-bc7e6965dfae")
 		(property "Reference" "R3"
 			(at 34.0614 72.39 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -6335,8 +5999,6 @@
 		)
 		(property "Value" "4k7"
 			(at 38.862 72.39 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -6346,35 +6008,29 @@
 		)
 		(property "Footprint" "power_injector_rev_c:R0805"
 			(at 35.56 68.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 35.56 68.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 35.56 68.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -6384,7 +6040,7 @@
 			(uuid "c14cd7ab-94d4-455a-9500-4faf773611ac")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "R3")
 					(unit 1)
@@ -6396,17 +6052,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:LEDCHIP-LED0805")
 		(at 35.56 78.74 0)
 		(unit 1)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "32a85598-fd31-4b75-be27-a0c6548428c4")
 		(property "Reference" "LED1"
 			(at 39.116 83.312 90)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -6416,47 +6068,39 @@
 		)
 		(property "Value" "LEDCHIP-LED0805"
 			(at 41.275 83.312 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:CHIP-LED0805"
 			(at 35.56 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 35.56 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 35.56 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "A"
@@ -6466,7 +6110,7 @@
 			(uuid "bf6fdb12-7940-4060-a8c9-bf353653ed12")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "LED1")
 					(unit 1)
@@ -6478,17 +6122,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:JACK-PLUG0")
 		(at 45.72 109.22 0)
 		(unit 1)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "32f2e0c4-11eb-4ba3-a7bd-14dda117fa22")
 		(property "Reference" "J4"
 			(at 38.1 104.14 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -6498,47 +6138,39 @@
 		)
 		(property "Value" "JACK-PLUG0"
 			(at 38.1 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:SPC4077"
 			(at 45.72 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 45.72 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 45.72 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "3"
@@ -6551,7 +6183,7 @@
 			(uuid "d51d55f7-b3a7-48db-9c99-7210d6dda59c")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "J4")
 					(unit 1)
@@ -6563,17 +6195,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 261.62 149.86 0)
 		(unit 1)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "392386b0-20ce-42b8-933f-8c289c0d7acb")
 		(property "Reference" "X8"
 			(at 264.16 150.622 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -6583,8 +6211,6 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 260.858 148.463 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -6594,35 +6220,29 @@
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 261.62 149.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 261.62 149.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 261.62 149.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -6638,7 +6258,7 @@
 			(uuid "3e268d6d-d12e-4da6-aead-68bb00e0e280")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X8")
 					(unit 1)
@@ -6650,17 +6270,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 261.62 48.26 0)
 		(unit 3)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "3b9aae26-771b-4434-9e16-29b203ca34bf")
 		(property "Reference" "X2"
 			(at 264.16 49.022 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -6670,47 +6286,39 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 260.858 46.863 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 261.62 48.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 261.62 48.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 261.62 48.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -6726,7 +6334,7 @@
 			(uuid "71e67c66-17c4-4ab0-b997-c2d90e858ef6")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X2")
 					(unit 3)
@@ -6738,17 +6346,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 261.62 96.52 0)
 		(unit 1)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "3be0a65a-875a-450a-bbfd-08087a29ea19")
 		(property "Reference" "X5"
 			(at 264.16 97.282 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -6758,8 +6362,6 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 260.858 95.123 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -6769,35 +6371,29 @@
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 261.62 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 261.62 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 261.62 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -6813,7 +6409,7 @@
 			(uuid "13979cba-1a7b-4ce0-b24c-a4c7b13812ae")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X5")
 					(unit 1)
@@ -6825,17 +6421,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 261.62 104.14 0)
 		(unit 4)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "3c2f868c-5c48-4fa1-b511-0303eefc26ed")
 		(property "Reference" "X5"
 			(at 264.16 104.902 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -6845,47 +6437,39 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 260.858 102.743 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 261.62 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 261.62 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 261.62 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -6901,7 +6485,7 @@
 			(uuid "7d6ae59a-fd23-4c44-84b4-6ddd54af171a")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X5")
 					(unit 4)
@@ -6913,17 +6497,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 261.62 99.06 0)
 		(unit 2)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "3c85bca5-776c-45da-a5d6-674eb81b091e")
 		(property "Reference" "X5"
 			(at 264.16 99.822 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -6933,47 +6513,39 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 260.858 97.663 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 261.62 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 261.62 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 261.62 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -6989,7 +6561,7 @@
 			(uuid "006ff102-db47-415e-b005-b78098fb7622")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X5")
 					(unit 2)
@@ -7001,17 +6573,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 213.36 63.5 180)
 		(unit 2)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "462ca83e-f8cc-4360-b799-c6c47cfacb89")
 		(property "Reference" "X11"
 			(at 215.9 64.262 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -7021,47 +6589,39 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 214.122 64.897 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 213.36 63.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 213.36 63.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 213.36 63.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -7077,7 +6637,7 @@
 			(uuid "d247dad9-6cf8-4e7e-81b0-98577dba89bd")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X11")
 					(unit 2)
@@ -7089,17 +6649,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 261.62 116.84 0)
 		(unit 2)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "499377a3-6e02-48b7-8997-e8547e53dc60")
 		(property "Reference" "X6"
 			(at 264.16 117.602 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -7109,47 +6665,39 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 260.858 115.443 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 261.62 116.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 261.62 116.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 261.62 116.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -7165,7 +6713,7 @@
 			(uuid "ee1145bc-dded-4f53-8862-602df8101cbc")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X6")
 					(unit 2)
@@ -7177,17 +6725,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 261.62 86.36 0)
 		(unit 4)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "4a031c86-0639-4018-8294-6169295632ae")
 		(property "Reference" "X4"
 			(at 264.16 87.122 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -7197,47 +6741,39 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 260.858 84.963 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 261.62 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 261.62 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 261.62 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -7253,7 +6789,7 @@
 			(uuid "ace16eda-3882-4908-b777-afed190382c2")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X4")
 					(unit 4)
@@ -7265,17 +6801,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 213.36 58.42 180)
 		(unit 4)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "4bdc16a0-540f-4538-a984-8b13b6a5e4e5")
 		(property "Reference" "X11"
 			(at 215.9 59.182 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -7285,47 +6817,39 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 214.122 59.817 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 213.36 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 213.36 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 213.36 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -7341,7 +6865,7 @@
 			(uuid "90fe5e41-9463-4269-8c62-c60007d1d2cb")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X11")
 					(unit 4)
@@ -7353,17 +6877,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 213.36 66.04 180)
 		(unit 1)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "4c5cc38a-911c-4937-b354-ed32d46f2546")
 		(property "Reference" "X11"
 			(at 215.9 66.802 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -7373,8 +6893,6 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 212.598 64.643 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -7384,35 +6902,29 @@
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 213.36 66.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 213.36 66.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 213.36 66.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -7428,7 +6940,7 @@
 			(uuid "3df09721-eee7-442e-b7b3-8b548ec2852e")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X11")
 					(unit 1)
@@ -7440,17 +6952,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:A00-108-220-450")
 		(at 127 76.2 0)
 		(unit 1)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "4fb51c07-38cd-4d61-9463-0f10da4cabb8")
 		(property "Reference" "J3"
 			(at 129.54 91.44 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -7460,47 +6968,39 @@
 		)
 		(property "Value" "A00-108-220-450"
 			(at 127 89.916 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:RJ-45"
 			(at 127 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 127 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 127 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -7528,7 +7028,7 @@
 			(uuid "5fe3027d-40a7-4f2b-b3d9-b71fd254b733")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "J3")
 					(unit 1)
@@ -7540,28 +7040,22 @@
 		(lib_id "power_injector_rev_c-eagle-import:+12V")
 		(at 81.28 93.98 0)
 		(unit 1)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "51731c80-2fb3-417a-80c0-faef12b0eab2")
 		(property "Reference" "#P+7"
 			(at 81.28 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "+12V"
 			(at 78.74 99.06 90)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -7571,42 +7065,36 @@
 		)
 		(property "Footprint" ""
 			(at 81.28 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 81.28 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 81.28 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
 			(uuid "c98efeee-dde6-4e12-8561-b07f08f97dfe")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "#P+7")
 					(unit 1)
@@ -7618,17 +7106,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 213.36 137.16 180)
 		(unit 2)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "52c35fc1-9011-4456-85ce-7b84e785e6d7")
 		(property "Reference" "X15"
 			(at 215.9 137.922 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -7638,47 +7122,39 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 214.122 138.557 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 213.36 137.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 213.36 137.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 213.36 137.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -7694,7 +7170,7 @@
 			(uuid "970bd688-aa52-4306-b9d1-b3173c11eba6")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X15")
 					(unit 2)
@@ -7706,17 +7182,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 213.36 116.84 180)
 		(unit 3)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "54430411-16d1-4f37-95c0-dddb4156f3be")
 		(property "Reference" "X14"
 			(at 215.9 117.602 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -7726,47 +7198,39 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 214.122 118.237 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 213.36 116.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 213.36 116.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 213.36 116.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -7782,7 +7246,7 @@
 			(uuid "d584d5a6-1bd9-47bf-a08e-08c4264f9eb0")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X14")
 					(unit 3)
@@ -7794,17 +7258,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 213.36 104.14 180)
 		(unit 1)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "55a9d34d-011b-4ca3-aa3b-4682aa40661f")
 		(property "Reference" "X13"
 			(at 215.9 104.902 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -7814,8 +7274,6 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 212.598 102.743 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -7825,35 +7283,29 @@
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 213.36 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 213.36 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 213.36 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -7869,7 +7321,7 @@
 			(uuid "e63a924b-f140-4e00-86cd-88ef7e2b6071")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X13")
 					(unit 1)
@@ -7881,28 +7333,22 @@
 		(lib_id "power_injector_rev_c-eagle-import:GND")
 		(at 86.36 119.38 0)
 		(unit 1)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "592b9e7b-5ef9-47f1-8fe0-acc84a40f566")
 		(property "Reference" "#GND3"
 			(at 86.36 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "GND"
 			(at 83.82 121.92 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -7912,42 +7358,36 @@
 		)
 		(property "Footprint" ""
 			(at 86.36 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 86.36 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 86.36 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
 			(uuid "aa51269f-b423-4b59-80c6-0fb8abea15ae")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "#GND3")
 					(unit 1)
@@ -7959,17 +7399,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 261.62 25.4 0)
 		(unit 1)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "5d77e9b0-420e-4719-9a9f-4000bcf3315f")
 		(property "Reference" "X1"
 			(at 264.16 26.162 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -7979,8 +7415,6 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 260.858 24.003 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -7990,35 +7424,29 @@
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 261.62 25.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 261.62 25.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 261.62 25.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -8034,7 +7462,7 @@
 			(uuid "7b8223ba-2102-4ee0-8ea0-69800555fcfa")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X1")
 					(unit 1)
@@ -8046,17 +7474,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 261.62 152.4 0)
 		(unit 2)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "5e56900a-bc62-46dc-9aed-2d4deef9252e")
 		(property "Reference" "X8"
 			(at 264.16 153.162 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -8066,47 +7490,39 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 260.858 151.003 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 261.62 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 261.62 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 261.62 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -8122,7 +7538,7 @@
 			(uuid "08fb8dbb-976d-4551-a0d7-e7e9e5fcd8c5")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X8")
 					(unit 2)
@@ -8134,17 +7550,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2021")
 		(at 124.46 144.78 0)
 		(unit 1)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "60b6d917-a7cf-4df2-8b06-fb4466e7722c")
 		(property "Reference" "TERM-R0"
 			(at 127 145.542 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -8154,8 +7566,6 @@
 		)
 		(property "Value" "22-23-2021"
 			(at 123.698 143.383 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -8165,35 +7575,29 @@
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2021"
 			(at 124.46 144.78 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 124.46 144.78 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 124.46 144.78 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -8203,7 +7607,7 @@
 			(uuid "207ff45c-3256-4835-85ec-76a96a9ebc5e")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "TERM-R0")
 					(unit 1)
@@ -8215,17 +7619,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 213.36 78.74 180)
 		(unit 3)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "682289b3-8ab2-4990-85a1-98c1b13015af")
 		(property "Reference" "X12"
 			(at 215.9 79.502 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -8235,47 +7635,39 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 214.122 80.137 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 213.36 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 213.36 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 213.36 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -8291,7 +7683,7 @@
 			(uuid "91478790-9f4e-4205-bed8-b9c8648e6c6d")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X12")
 					(unit 3)
@@ -8303,17 +7695,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 213.36 152.4 180)
 		(unit 3)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "6d84f019-558c-4d60-bb95-feb06ed73b4d")
 		(property "Reference" "X16"
 			(at 215.9 153.162 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -8323,47 +7711,39 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 214.122 153.797 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 213.36 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 213.36 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 213.36 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -8379,7 +7759,7 @@
 			(uuid "2d53bebd-4323-48da-995f-c5c6c65e49d9")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X16")
 					(unit 3)
@@ -8391,17 +7771,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 213.36 139.7 180)
 		(unit 1)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "6db450cf-90f6-44ca-b037-b04560eb7d38")
 		(property "Reference" "X15"
 			(at 215.9 140.462 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -8411,8 +7787,6 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 212.598 138.303 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -8422,35 +7796,29 @@
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 213.36 139.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 213.36 139.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 213.36 139.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -8466,7 +7834,7 @@
 			(uuid "6196d164-20a2-4b4e-96b5-698fd967fc6f")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X15")
 					(unit 1)
@@ -8478,17 +7846,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 261.62 119.38 0)
 		(unit 3)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "7436af49-0ffb-433b-b06f-f52bfccc1802")
 		(property "Reference" "X6"
 			(at 264.16 120.142 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -8498,47 +7862,39 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 260.858 117.983 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 261.62 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 261.62 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 261.62 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -8554,7 +7910,7 @@
 			(uuid "d7b5e41a-b569-4e6c-8854-3a0422cd2e6a")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X6")
 					(unit 3)
@@ -8566,17 +7922,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 213.36 76.2 180)
 		(unit 4)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "7a35bd1b-9013-4ad8-85d7-a8e58e07667e")
 		(property "Reference" "X12"
 			(at 215.9 76.962 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -8586,47 +7938,39 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 214.122 77.597 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 213.36 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 213.36 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 213.36 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -8642,7 +7986,7 @@
 			(uuid "1793af10-04f1-4495-a3ec-3f4730c6a53d")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X12")
 					(unit 4)
@@ -8654,17 +7998,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 213.36 121.92 180)
 		(unit 1)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "7f87b101-370c-4a21-9b5a-1c4b613d3f16")
 		(property "Reference" "X14"
 			(at 215.9 122.682 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -8674,8 +8014,6 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 212.598 120.523 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -8685,35 +8023,29 @@
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 213.36 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 213.36 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 213.36 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -8729,7 +8061,7 @@
 			(uuid "a360bac4-8ba2-40bc-81e9-90e1025e9d66")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X14")
 					(unit 1)
@@ -8741,17 +8073,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 261.62 81.28 0)
 		(unit 2)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "80268e32-3a00-4f34-8063-2cf47bb85891")
 		(property "Reference" "X4"
 			(at 264.16 82.042 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -8761,47 +8089,39 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 260.858 79.883 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 261.62 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 261.62 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 261.62 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -8817,7 +8137,7 @@
 			(uuid "0d45f56f-f733-4edd-8ede-0b2e226e22c0")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X4")
 					(unit 2)
@@ -8829,17 +8149,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2021")
 		(at 101.6 48.26 180)
 		(unit 1)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "80e0b129-6c1c-4959-b46b-ff42c0e8222e")
 		(property "Reference" "TERM-L0"
 			(at 104.14 49.022 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -8849,8 +8165,6 @@
 		)
 		(property "Value" "22-23-2021"
 			(at 100.838 46.863 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -8860,35 +8174,29 @@
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2021"
 			(at 101.6 48.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 101.6 48.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 101.6 48.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -8898,7 +8206,7 @@
 			(uuid "61157c18-5997-4804-ad63-953c29c47437")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "TERM-L0")
 					(unit 1)
@@ -8910,17 +8218,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 261.62 27.94 0)
 		(unit 2)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "82d9f182-7efe-4e1d-a580-6e78914e8fb0")
 		(property "Reference" "X1"
 			(at 264.16 28.702 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -8930,47 +8234,39 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 260.858 26.543 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 261.62 27.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 261.62 27.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 261.62 27.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -8986,7 +8282,7 @@
 			(uuid "d91b6b80-0052-413b-80a4-fcb24bf8cbf4")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X1")
 					(unit 2)
@@ -8998,17 +8294,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 261.62 154.94 0)
 		(unit 3)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "82e66e74-4b6a-4660-ac98-6b807978a6ca")
 		(property "Reference" "X8"
 			(at 264.16 155.702 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -9018,47 +8310,39 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 260.858 153.543 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 261.62 154.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 261.62 154.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 261.62 154.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -9074,7 +8358,7 @@
 			(uuid "53954247-47ee-4194-8114-2668077b12a3")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X8")
 					(unit 3)
@@ -9086,17 +8370,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 261.62 66.04 0)
 		(unit 3)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "853a7b46-6b17-4903-86d7-cd77e5682867")
 		(property "Reference" "X3"
 			(at 264.16 66.802 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -9106,47 +8386,39 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 260.858 64.643 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 261.62 66.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 261.62 66.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 261.62 66.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -9162,7 +8434,7 @@
 			(uuid "c1c2b75e-8c26-4dfb-a049-576bf156a130")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X3")
 					(unit 3)
@@ -9174,17 +8446,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 213.36 45.72 180)
 		(unit 2)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "872fa5b6-5a0e-48c2-951d-ca4dad89dba4")
 		(property "Reference" "X10"
 			(at 215.9 46.482 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -9194,47 +8462,39 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 214.122 47.117 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 213.36 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 213.36 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 213.36 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -9250,7 +8510,7 @@
 			(uuid "3fcf622c-b381-41ab-8081-16abaede142d")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X10")
 					(unit 2)
@@ -9262,17 +8522,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2021")
 		(at 124.46 147.32 0)
 		(unit 2)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "92dca5fa-baea-4c08-a585-69e5b552754e")
 		(property "Reference" "TERM-R0"
 			(at 127 148.082 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -9282,47 +8538,39 @@
 		)
 		(property "Value" "22-23-2021"
 			(at 123.698 145.923 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2021"
 			(at 124.46 147.32 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 124.46 147.32 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 124.46 147.32 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -9332,7 +8580,7 @@
 			(uuid "0aa7879b-6115-4722-ad32-11f0f6da487e")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "TERM-R0")
 					(unit 2)
@@ -9344,17 +8592,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 261.62 30.48 0)
 		(unit 3)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "95c1143b-9efc-4b78-a660-16ec0cb78fd4")
 		(property "Reference" "X1"
 			(at 264.16 31.242 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -9364,47 +8608,39 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 260.858 29.083 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 261.62 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 261.62 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 261.62 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -9420,7 +8656,7 @@
 			(uuid "c69b121a-ba46-4aa6-b116-6820ab864899")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X1")
 					(unit 3)
@@ -9432,17 +8668,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:DIODE-SMB")
 		(at 55.88 106.68 0)
 		(unit 1)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "9cec150d-3d73-4027-85eb-afeae6a247f3")
 		(property "Reference" "D1"
 			(at 58.42 106.1974 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -9452,8 +8684,6 @@
 		)
 		(property "Value" "S1D"
 			(at 58.42 108.9914 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -9463,35 +8693,29 @@
 		)
 		(property "Footprint" "power_injector_rev_c:SMB"
 			(at 55.88 106.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 55.88 106.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 55.88 106.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "A"
@@ -9501,7 +8725,7 @@
 			(uuid "f4c39811-9a7b-411c-bcef-c1d8253f1299")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "D1")
 					(unit 1)
@@ -9513,17 +8737,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 261.62 33.02 0)
 		(unit 4)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "9e8b087c-2d77-462e-b32f-045c4903abbc")
 		(property "Reference" "X1"
 			(at 264.16 33.782 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -9533,47 +8753,39 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 260.858 31.623 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 261.62 33.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 261.62 33.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 261.62 33.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -9589,7 +8801,7 @@
 			(uuid "5704dd1a-0a4b-49e8-83f9-7db4b7effc67")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X1")
 					(unit 4)
@@ -9601,17 +8813,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:R-EU_R0805")
 		(at 101.6 152.4 270)
 		(unit 1)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "9fd075c4-b441-4ff4-849e-766bd07a9c89")
 		(property "Reference" "R1"
 			(at 103.0986 148.59 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -9621,8 +8829,6 @@
 		)
 		(property "Value" "120"
 			(at 98.298 148.59 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -9632,35 +8838,29 @@
 		)
 		(property "Footprint" "power_injector_rev_c:R0805"
 			(at 101.6 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 101.6 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 101.6 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -9670,7 +8870,7 @@
 			(uuid "f643c9ee-d0de-4072-b5cc-5145d320c464")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "R1")
 					(unit 1)
@@ -9682,17 +8882,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 213.36 119.38 180)
 		(unit 2)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "ab61ca90-95a6-4308-9222-157b312f660e")
 		(property "Reference" "X14"
 			(at 215.9 120.142 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -9702,47 +8898,39 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 214.122 120.777 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 213.36 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 213.36 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 213.36 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -9758,7 +8946,7 @@
 			(uuid "95e529c7-00b4-4074-8f65-1996faf4969a")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X14")
 					(unit 2)
@@ -9770,17 +8958,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 261.62 114.3 0)
 		(unit 1)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "afb96495-7f33-4ea8-a7d2-adbb42c9845d")
 		(property "Reference" "X6"
 			(at 264.16 115.062 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -9790,8 +8974,6 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 260.858 112.903 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -9801,35 +8983,29 @@
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 261.62 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 261.62 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 261.62 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -9845,7 +9021,7 @@
 			(uuid "7d76939d-f796-47ae-8d1d-852a97eace04")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X6")
 					(unit 1)
@@ -9857,17 +9033,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 213.36 83.82 180)
 		(unit 1)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "b0bdde9c-f974-4e40-9708-63df89a80e0f")
 		(property "Reference" "X12"
 			(at 215.9 84.582 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -9877,8 +9049,6 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 212.598 82.423 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -9888,35 +9058,29 @@
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 213.36 83.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 213.36 83.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 213.36 83.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -9932,7 +9096,7 @@
 			(uuid "659e9e22-ddb9-474f-bcea-e893b19dfdaf")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X12")
 					(unit 1)
@@ -9944,17 +9108,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 213.36 134.62 180)
 		(unit 3)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "b2809f49-4b8e-4340-b21d-d8697753130a")
 		(property "Reference" "X15"
 			(at 215.9 135.382 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -9964,47 +9124,39 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 214.122 136.017 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 213.36 134.62 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 213.36 134.62 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 213.36 134.62 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -10020,7 +9172,7 @@
 			(uuid "94306dbe-91c8-4c6d-b407-b024ec605b40")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X15")
 					(unit 3)
@@ -10032,17 +9184,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 261.62 60.96 0)
 		(unit 1)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "b6937ea0-d3c1-4b12-bc37-540d6a99be37")
 		(property "Reference" "X3"
 			(at 264.16 61.722 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -10052,8 +9200,6 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 260.858 59.563 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -10063,35 +9209,29 @@
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 261.62 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 261.62 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 261.62 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -10107,7 +9247,7 @@
 			(uuid "f0ca8a38-5bae-4e7b-8567-b6ac5f44dbf0")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X3")
 					(unit 1)
@@ -10119,17 +9259,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 213.36 149.86 180)
 		(unit 4)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "b6dc5128-a2c2-477b-8579-d680b64616a6")
 		(property "Reference" "X16"
 			(at 215.9 150.622 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -10139,47 +9275,39 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 214.122 151.257 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 213.36 149.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 213.36 149.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 213.36 149.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -10195,7 +9323,7 @@
 			(uuid "a272e1e6-f887-4ed3-bac2-c921166142dd")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X16")
 					(unit 4)
@@ -10207,17 +9335,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 213.36 154.94 180)
 		(unit 2)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "b7a924c7-11e9-4cba-ae90-123496f9832c")
 		(property "Reference" "X16"
 			(at 215.9 155.702 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -10227,47 +9351,39 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 214.122 156.337 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 213.36 154.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 213.36 154.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 213.36 154.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -10283,7 +9399,7 @@
 			(uuid "edad9f98-4088-4748-b864-846284c58a3e")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X16")
 					(unit 2)
@@ -10295,17 +9411,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 213.36 43.18 180)
 		(unit 3)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "b7c528ed-3a36-4008-b04d-91b90e64e6da")
 		(property "Reference" "X10"
 			(at 215.9 43.942 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -10315,47 +9427,39 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 214.122 44.577 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 213.36 43.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 213.36 43.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 213.36 43.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -10371,7 +9475,7 @@
 			(uuid "71e5f7f8-4d12-4995-a3d0-a43c69c10578")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X10")
 					(unit 3)
@@ -10383,17 +9487,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 213.36 99.06 180)
 		(unit 3)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "b8da7822-56ea-4161-851c-a8946eab9057")
 		(property "Reference" "X13"
 			(at 215.9 99.822 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -10403,47 +9503,39 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 214.122 100.457 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 213.36 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 213.36 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 213.36 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -10459,7 +9551,7 @@
 			(uuid "82f8add7-8c1e-4510-9649-d8f6a03fe7a2")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X13")
 					(unit 3)
@@ -10471,17 +9563,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 213.36 157.48 180)
 		(unit 1)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "b8e1db03-5da4-4595-aa4b-6bf0bd0c854f")
 		(property "Reference" "X16"
 			(at 215.9 158.242 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -10491,8 +9579,6 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 212.598 156.083 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -10502,35 +9588,29 @@
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 213.36 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 213.36 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 213.36 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -10546,7 +9626,7 @@
 			(uuid "7f8c4d84-563a-48ac-8adb-08eabd016d05")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X16")
 					(unit 1)
@@ -10558,17 +9638,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 213.36 25.4 180)
 		(unit 4)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "bbfdc223-e069-4678-81dc-25d2c854c088")
 		(property "Reference" "X9"
 			(at 215.9 26.162 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -10578,47 +9654,39 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 214.122 26.797 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 213.36 25.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 213.36 25.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 213.36 25.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -10634,7 +9702,7 @@
 			(uuid "fa8b8a9f-4bbe-4d10-ac77-170fc067dd13")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X9")
 					(unit 4)
@@ -10646,17 +9714,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 213.36 60.96 180)
 		(unit 3)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "c06959e3-0ee0-4784-9803-99087408a0f7")
 		(property "Reference" "X11"
 			(at 215.9 61.722 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -10666,47 +9730,39 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 214.122 62.357 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 213.36 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 213.36 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 213.36 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -10722,7 +9778,7 @@
 			(uuid "01ca6287-c376-4e2b-8ca0-8f01811be7a6")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X11")
 					(unit 3)
@@ -10734,17 +9790,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 213.36 132.08 180)
 		(unit 4)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "c22d15d2-4542-424f-b028-e523bce515de")
 		(property "Reference" "X15"
 			(at 215.9 132.842 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -10754,47 +9806,39 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 214.122 133.477 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 213.36 132.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 213.36 132.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 213.36 132.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -10810,7 +9854,7 @@
 			(uuid "854baede-18f2-4e76-ae41-74885ac1f1a2")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X15")
 					(unit 4)
@@ -10822,17 +9866,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 213.36 114.3 180)
 		(unit 4)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "c4f38f0b-3175-4baf-a402-a9b00d16d14a")
 		(property "Reference" "X14"
 			(at 215.9 115.062 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -10842,47 +9882,39 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 214.122 115.697 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 213.36 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 213.36 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 213.36 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -10898,7 +9930,7 @@
 			(uuid "3a373540-8349-4c59-b80d-d977442e8961")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X14")
 					(unit 4)
@@ -10910,17 +9942,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 213.36 81.28 180)
 		(unit 2)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "c6dfe768-d24d-4458-82a2-0d417a46b19b")
 		(property "Reference" "X12"
 			(at 215.9 82.042 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -10930,47 +9958,39 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 214.122 82.677 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 213.36 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 213.36 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 213.36 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -10986,7 +10006,7 @@
 			(uuid "889ed60b-a620-4baf-87fe-8a51ad45eaa1")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X12")
 					(unit 2)
@@ -10998,17 +10018,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:R-EU_0204/5")
 		(at 73.66 91.44 90)
 		(unit 1)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "c90c4341-b78c-4838-9fbc-2116c73e7169")
 		(property "Reference" "F3"
 			(at 72.1614 95.25 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -11018,8 +10034,6 @@
 		)
 		(property "Value" "MF-R050"
 			(at 71.882 90.17 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -11029,35 +10043,29 @@
 		)
 		(property "Footprint" "power_injector_rev_c:0204_5"
 			(at 73.66 91.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 73.66 91.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 73.66 91.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -11067,7 +10075,7 @@
 			(uuid "a47ec321-9cbb-4358-83a6-729dc1acb64b")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "F3")
 					(unit 1)
@@ -11079,17 +10087,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:A00-108-220-450")
 		(at 127 109.22 0)
 		(unit 1)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "cf3cb7b9-cec5-44fc-a066-ae39538ed1d0")
 		(property "Reference" "J2"
 			(at 129.54 99.06 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -11099,47 +10103,39 @@
 		)
 		(property "Value" "A00-108-220-450"
 			(at 127 122.936 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:RJ-45"
 			(at 127 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 127 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 127 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -11167,7 +10163,7 @@
 			(uuid "ea2664c9-74ec-4581-87d8-84082bb31e0c")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "J2")
 					(unit 1)
@@ -11179,17 +10175,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 261.62 132.08 0)
 		(unit 1)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "d8888d95-29c8-4c34-b4ad-5be2fd614d4e")
 		(property "Reference" "X7"
 			(at 264.16 132.842 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -11199,8 +10191,6 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 260.858 130.683 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -11210,35 +10200,29 @@
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 261.62 132.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 261.62 132.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 261.62 132.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -11254,7 +10238,7 @@
 			(uuid "dbb62366-71e1-40f5-88bd-4531dad4f1cc")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X7")
 					(unit 1)
@@ -11266,17 +10250,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 261.62 45.72 0)
 		(unit 2)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "e2f80232-7c1a-457b-b1c6-ce5d42689637")
 		(property "Reference" "X2"
 			(at 264.16 46.482 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -11286,47 +10266,39 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 260.858 44.323 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 261.62 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 261.62 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 261.62 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -11342,7 +10314,7 @@
 			(uuid "3500f1db-bb97-4b7f-93d6-6ee94d50f877")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X2")
 					(unit 2)
@@ -11354,28 +10326,22 @@
 		(lib_id "power_injector_rev_c-eagle-import:GND")
 		(at 35.56 88.9 0)
 		(unit 1)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "e76554b6-acb1-4aed-900e-ad769462754d")
 		(property "Reference" "#GND10"
 			(at 35.56 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "GND"
 			(at 33.02 91.44 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -11385,42 +10351,36 @@
 		)
 		(property "Footprint" ""
 			(at 35.56 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 35.56 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 35.56 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
 			(uuid "af0efa7a-6062-484d-8d5e-eca7edc1b299")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "#GND10")
 					(unit 1)
@@ -11432,28 +10392,22 @@
 		(lib_id "power_injector_rev_c-eagle-import:+12V")
 		(at 35.56 53.34 0)
 		(unit 1)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "e96cff95-fd39-4276-9225-f6829c555da7")
 		(property "Reference" "#P+1"
 			(at 35.56 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "+12V"
 			(at 33.02 58.42 90)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -11463,42 +10417,36 @@
 		)
 		(property "Footprint" ""
 			(at 35.56 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 35.56 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 35.56 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
 			(uuid "64b238a3-834e-433d-8153-b44cd9ee5e49")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "#P+1")
 					(unit 1)
@@ -11510,17 +10458,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 213.36 33.02 180)
 		(unit 1)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "ead86080-412a-4267-8c14-ec01775351b9")
 		(property "Reference" "X9"
 			(at 215.9 33.782 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -11530,8 +10474,6 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 212.598 31.623 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -11541,35 +10483,29 @@
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 213.36 33.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 213.36 33.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 213.36 33.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -11585,7 +10521,7 @@
 			(uuid "955e7524-9e81-47ac-9d37-b1f898c03028")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X9")
 					(unit 1)
@@ -11597,17 +10533,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 261.62 83.82 0)
 		(unit 3)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "eed21d4c-8751-4314-b0b2-7b3a48d934ba")
 		(property "Reference" "X4"
 			(at 264.16 84.582 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -11617,47 +10549,39 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 260.858 82.423 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 261.62 83.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 261.62 83.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 261.62 83.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -11673,7 +10597,7 @@
 			(uuid "1866daa1-13ba-4614-b7d8-efee184c75be")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X4")
 					(unit 3)
@@ -11685,17 +10609,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 261.62 68.58 0)
 		(unit 4)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "f2a0a7ef-c39a-4d7b-a857-7df956adeb30")
 		(property "Reference" "X3"
 			(at 264.16 69.342 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -11705,47 +10625,39 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 260.858 67.183 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 261.62 68.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 261.62 68.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 261.62 68.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -11761,7 +10673,7 @@
 			(uuid "f2b015a3-85ba-416b-aa1f-be1cb68e644e")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X3")
 					(unit 4)
@@ -11773,17 +10685,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 261.62 137.16 0)
 		(unit 3)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "f97cc099-fda6-491b-b7a3-19f6e705dc29")
 		(property "Reference" "X7"
 			(at 264.16 137.922 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -11793,47 +10701,39 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 260.858 135.763 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 261.62 137.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 261.62 137.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 261.62 137.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -11849,7 +10749,7 @@
 			(uuid "2ba53ea5-7713-4c3d-98b3-6c1eb2b69722")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X7")
 					(unit 3)
@@ -11861,17 +10761,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:22-23-2041")
 		(at 213.36 96.52 180)
 		(unit 4)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "fb041f0c-537f-4b7e-874c-3fedfb0f5301")
 		(property "Reference" "X13"
 			(at 215.9 97.282 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.2954)
@@ -11881,47 +10777,39 @@
 		)
 		(property "Value" "22-23-2041"
 			(at 214.122 97.917 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:22-23-2041"
 			(at 213.36 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 213.36 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 213.36 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -11937,7 +10825,7 @@
 			(uuid "f5a6431d-af06-46dd-a0da-4974d1fb2a30")
 		)
 		(instances
-			(project "power_injector_rev_c"
+			(project ""
 				(path "/9869746d-4b47-4a0d-aa5e-3b217217de94"
 					(reference "X13")
 					(unit 4)

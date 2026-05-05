@@ -1,32 +1,26 @@
 (kicad_sch
-	(version 20260306)
+	(version 20250114)
 	(generator "eeschema")
-	(generator_version "10.0")
-	(uuid "47bd3032-e417-4aa5-813e-5d6dc8479352")
+	(generator_version "9.0")
+	(uuid "7423aa41-8104-411d-b4c9-a3ca20e8cc07")
 	(paper "User" 309.347 218.491)
 	(lib_symbols
 		(symbol "power_injector_rev_c-eagle-import:+12V"
-			(power global)
+			(power)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" "#P+"
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "Value" ""
 				(at -2.54 -5.08 90)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.778 1.5113)
@@ -36,41 +30,33 @@
 			)
 			(property "Footprint" ""
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "Datasheet" ""
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "Description" "SUPPLY SYMBOL"
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "ki_locked" ""
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -151,12 +137,8 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" ""
 				(at 0 10.16 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.778 1.5113)
@@ -166,8 +148,6 @@
 			)
 			(property "Value" ""
 				(at 0 -13.716 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.778 1.5113)
@@ -177,41 +157,33 @@
 			)
 			(property "Footprint" "power_injector_rev_c:RJ-45"
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "Datasheet" ""
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "Description" ""
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "ki_locked" ""
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -946,12 +918,8 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" "D"
 				(at 2.54 0.4826 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.778 1.5113)
@@ -961,8 +929,6 @@
 			)
 			(property "Value" ""
 				(at 2.54 -2.3114 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.778 1.5113)
@@ -972,41 +938,33 @@
 			)
 			(property "Footprint" "power_injector_rev_c:SMB"
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "Datasheet" ""
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "Description" "DIODE"
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "ki_locked" ""
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1114,27 +1072,21 @@
 			(embedded_fonts no)
 		)
 		(symbol "power_injector_rev_c-eagle-import:GND"
-			(power global)
+			(power)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" "#GND"
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "Value" ""
 				(at -2.54 -2.54 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.778 1.5113)
@@ -1144,41 +1096,33 @@
 			)
 			(property "Footprint" ""
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "Datasheet" ""
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "Description" "SUPPLY SYMBOL"
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "ki_locked" ""
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1223,12 +1167,8 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" "J"
 				(at -7.62 5.08 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.778 1.5113)
@@ -1238,8 +1178,6 @@
 			)
 			(property "Value" ""
 				(at -7.62 -5.08 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.778 1.5113)
@@ -1249,41 +1187,33 @@
 			)
 			(property "Footprint" "power_injector_rev_c:SPC4077"
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "Datasheet" ""
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "Description" "DC POWER JACK\nPower Jack, DC, Right Angle, Through Hole, Rated 5A at 16VDC, PC Terminals\n\nDistributor: Farnell (www.Farnell.de)\nDrawing: 84N1161.pdf / 84N1162.pdf\nManufacturer: SPC Technology (www.spctechnology.com)\nType: SPC4077 / SPC 4078"
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "ki_locked" ""
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1460,16 +1390,16 @@
 					)
 				)
 				(pin passive line
-					(at 5.08 -2.54 180)
+					(at 5.08 2.54 180)
 					(length 5.08)
-					(name "1"
+					(name "3"
 						(effects
 							(font
 								(size 0 0)
 							)
 						)
 					)
-					(number "1"
+					(number "3"
 						(effects
 							(font
 								(size 1.524 1.524)
@@ -1496,16 +1426,16 @@
 					)
 				)
 				(pin passive line
-					(at 5.08 2.54 180)
+					(at 5.08 -2.54 180)
 					(length 5.08)
-					(name "3"
+					(name "1"
 						(effects
 							(font
 								(size 0 0)
 							)
 						)
 					)
-					(number "3"
+					(number "1"
 						(effects
 							(font
 								(size 1.524 1.524)
@@ -1520,12 +1450,8 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" "LED"
 				(at 3.556 -4.572 90)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.778 1.5113)
@@ -1535,8 +1461,6 @@
 			)
 			(property "Value" ""
 				(at 5.715 -4.572 90)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.778 1.5113)
@@ -1546,41 +1470,33 @@
 			)
 			(property "Footprint" "power_injector_rev_c:CHIP-LED0805"
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "Datasheet" ""
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "Description" "LED\n\nOSRAM:\n- CHIPLED\nLG R971, LG N971, LY N971, LG Q971, LY Q971, LO R971, LY R971 LH N974, LH R974\nLS Q976, LO Q976, LY Q976\nLO Q996\n- Hyper CHIPLED\nLW Q18S\nLB Q993, LB Q99A, LB R99A\n- SideLED\nLS A670, LO A670, LY A670, LG A670, LP A670\nLB A673, LV A673, LT A673, LW A673\nLH A674\nLY A675\nLS A676, LA A676, LO A676, LY A676, LW A676\nLS A679, LY A679, LG A679\n-  Hyper Micro SIDELED®\nLS Y876, LA Y876, LO Y876, LY Y876\nLT Y87S\n- SmartLED\nLW L88C, LW L88S\nLB L89C, LB L89S, LG L890\nLS L89K, LO L89K, LY L89K\nLS L896, LA L896, LO L896, LY L896\n- TOPLED\nLS T670, LO T670, LY T670, LG T670, LP T670\nLSG T670, LSP T670, LSY T670, LOP T670, LYG T670\nLG T671, LOG T671, LSG T671\nLB T673, LV T673, LT T673, LW T673\nLH T674\nLS T676, LA T676, LO T676, LY T676, LB T676, LH T676, LSB T676, LW T676\nLB T67C, LV T67C, LT T67C, LS T67K, LO T67K, LY T67K, LW E67C\nLS E67B, LA E67B, LO E67B, LY E67B, LB E67C, LV E67C, LT E67C\nLW T67C\nLS T679, LY T679, LG T679\nLS T770, LO T770, LY T770, LG T770, LP T770\nLB T773, LV T773, LT T773, LW T773\nLH T774\nLS E675, LA E675, LY E675, LS T675\nLS T776, LA T776, LO T776, LY T776, LB T776\nLHGB T686\nLT T68C, LB T68C\n- Hyper Mini TOPLED®\nLB M676\n- Mini TOPLED Santana®\nLG M470\nLS M47K, LO M47K, LY M47K\n\nSource: http://www.osram.convergy.de\n\nLUXEON:\n- LUMILED®\nLXK2-PW12-R00, LXK2-PW12-S00, LXK2-PW14-U00, LXK2-PW14-V00\nLXK2-PM12-R00, LXK2-PM12-S00, LXK2-PM14-U00\nLXK2-PE12-Q00, LXK2-PE12-R00, LXK2-PE12-S00, LXK2-PE14-T00, LXK2-PE14-U00\nLXK2-PB12-K00, LXK2-PB12-L00, LXK2-PB12-M00, LXK2-PB14-N00, LXK2-PB14-P00, LXK2-PB14-Q00\nLXK2-PR12-L00, LXK2-PR12-M00, LXK2-PR14-Q00, LXK2-PR14-R00\nLXK2-PD12-Q00, LXK2-PD12-R00, LXK2-PD12-S00\nLXK2-PH12-R00, LXK2-PH12-S00\nLXK2-PL12-P00, LXK2-PL12-Q00, LXK2-PL12-R00\n\nSource: www.luxeon.com\n\nKINGBRIGHT:\n\nKA-3528ASYC\nSource: www.kingbright.com"
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "ki_locked" ""
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1763,12 +1679,8 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" "R"
 				(at -3.81 1.4986 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.778 1.5113)
@@ -1778,8 +1690,6 @@
 			)
 			(property "Value" ""
 				(at -3.81 -3.302 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.778 1.5113)
@@ -1789,41 +1699,33 @@
 			)
 			(property "Footprint" "power_injector_rev_c:0204_5"
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "Datasheet" ""
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "Description" "RESISTOR, European symbol"
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "ki_locked" ""
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1922,12 +1824,8 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" "R"
 				(at -3.81 1.4986 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.778 1.5113)
@@ -1937,8 +1835,6 @@
 			)
 			(property "Value" ""
 				(at -3.81 -3.302 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.778 1.5113)
@@ -1948,41 +1844,33 @@
 			)
 			(property "Footprint" "power_injector_rev_c:R0805"
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "Datasheet" ""
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "Description" "RESISTOR, European symbol"
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "ki_locked" ""
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -2078,28 +1966,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "Power LED"
-		(exclude_from_sim no)
-		(at 91.44 111.76 0)
-		(effects
-			(font
-				(size 1.778 1.5113)
-			)
-			(justify right top)
-		)
-		(uuid "579e0cbd-b316-477c-ae8e-3c48d9f595a6")
-	)
-	(text "VSCP CAN power injector - small"
-		(exclude_from_sim no)
-		(at 193.294 181.61 0)
-		(effects
-			(font
-				(size 1.778 1.5113)
-			)
-			(justify left bottom)
-		)
-		(uuid "782cf871-4f30-4b9d-a718-7f625401b35f")
-	)
 	(text "C"
 		(exclude_from_sim no)
 		(at 274.32 190.5 0)
@@ -2109,113 +1975,125 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "7d1d1150-fbcd-43c3-9033-59fbfa6c00f4")
+		(uuid "3f9f241f-c567-4f33-9ae5-13f6ee11bc7d")
 	)
-	(junction
-		(at 144.78 116.84)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "02b158b7-2d10-4d37-9705-61d13f34da1e")
+	(text "Power LED"
+		(exclude_from_sim no)
+		(at 91.44 111.76 0)
+		(effects
+			(font
+				(size 1.778 1.5113)
+			)
+			(justify right top)
+		)
+		(uuid "a782f239-f833-47a9-87fd-79f1a16b03ea")
 	)
-	(junction
-		(at 106.68 139.7)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "19395ef8-41e0-4078-86eb-6a6a27b4cf45")
-	)
-	(junction
-		(at 101.6 139.7)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1a4477e2-3c9d-4a5d-8ba7-b3af8e8e0eae")
-	)
-	(junction
-		(at 111.76 139.7)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1f3f1b4b-ded8-4ada-aeac-6c48de689ff8")
-	)
-	(junction
-		(at 88.9 144.78)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "23abb989-3437-4d05-98bb-18c6402161ee")
-	)
-	(junction
-		(at 106.68 104.14)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "268b2d1d-69e3-40ef-813d-ea2382f22138")
-	)
-	(junction
-		(at 101.6 106.68)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2cb02263-21df-4d27-9bae-30d7319f576f")
+	(text "VSCP CAN power injector - mini"
+		(exclude_from_sim no)
+		(at 192.786 180.594 0)
+		(effects
+			(font
+				(size 1.778 1.5113)
+			)
+			(justify left bottom)
+		)
+		(uuid "d682aeea-0a5b-4386-bb38-342c327c45c7")
 	)
 	(junction
 		(at 124.46 144.78)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "33afa6d6-e1cc-491f-99e1-e628fc23074d")
-	)
-	(junction
-		(at 154.94 106.68)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6085a22b-2672-43e9-a7ba-b121cbfbd6cc")
-	)
-	(junction
-		(at 124.46 119.38)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6f11e880-a9b7-4cf0-ae79-3b90dd1f845a")
-	)
-	(junction
-		(at 142.24 119.38)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "72a4efa8-e60f-467b-95de-c8cf5e2df072")
-	)
-	(junction
-		(at 124.46 116.84)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7fab5527-b8e1-4c50-8ed7-58c379d8f412")
+		(uuid "1955bba1-76a0-42d5-9a0a-7627f591f258")
 	)
 	(junction
 		(at 157.48 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "8a88e013-63ad-469a-b06d-7189db6ffd47")
+		(uuid "1e259653-3b59-4707-9028-8ab958f14a41")
+	)
+	(junction
+		(at 154.94 106.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "293bf481-be6e-4e37-9b5e-ad34f55e4f40")
+	)
+	(junction
+		(at 111.76 139.7)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "50f23624-dc49-40f2-a80a-6ad56bb2b982")
+	)
+	(junction
+		(at 124.46 116.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5d34649c-526f-4520-a666-20dfdabd86e7")
+	)
+	(junction
+		(at 106.68 139.7)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6ebf38be-e59a-4be4-ab6c-44b4d2cd9033")
+	)
+	(junction
+		(at 88.9 144.78)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "71d07963-cd06-4776-88cf-1a511c367644")
+	)
+	(junction
+		(at 106.68 104.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "78e70fee-230e-45a7-9da8-4be7d4fc899d")
+	)
+	(junction
+		(at 101.6 106.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "82700b8f-b78f-4597-bf33-7ee99c77a873")
+	)
+	(junction
+		(at 144.78 116.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "85e1d64b-7397-4bd2-a5c9-ff2d6358ea5a")
 	)
 	(junction
 		(at 147.32 114.3)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "8e15c7ec-1715-4e67-ba8b-527f205cef07")
+		(uuid "a5db8574-7326-4d57-bf61-688d98ba3729")
 	)
 	(junction
-		(at 111.76 101.6)
+		(at 101.6 139.7)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "95418c6b-3b8d-44af-ac27-dd259078c403")
+		(uuid "bab1adfc-7bbc-48cf-a282-9ba54fe7643a")
+	)
+	(junction
+		(at 124.46 119.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c6cf885f-dbca-408e-88cd-d50a97725876")
 	)
 	(junction
 		(at 160.02 101.6)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "feea8695-e337-44e3-8a89-bef417cf4b16")
+		(uuid "e6025f63-5aae-47c7-99b1-887749a5a20f")
 	)
-	(wire
-		(pts
-			(xy 124.46 144.78) (xy 124.46 119.38)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "04de3d27-b1d1-46bf-980a-3d8d0f5e32cd")
+	(junction
+		(at 111.76 101.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e67634ff-699e-4cd1-a5df-d0cc57584308")
+	)
+	(junction
+		(at 142.24 119.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ef200664-bc08-4f50-a4f2-816bcb6095d6")
 	)
 	(wire
 		(pts
@@ -2225,567 +2103,7 @@
 			(width 0.1524)
 			(type solid)
 		)
-		(uuid "07cb78ce-411f-4d98-a98c-c5068d310b35")
-	)
-	(wire
-		(pts
-			(xy 165.1 109.22) (xy 152.4 109.22)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "099d1c10-284e-4f99-85ee-053a33bce9a7")
-	)
-	(wire
-		(pts
-			(xy 101.6 139.7) (xy 106.68 139.7)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "0fabc91f-4ccf-4e7c-b2bb-0aea9c59ad28")
-	)
-	(wire
-		(pts
-			(xy 111.76 101.6) (xy 160.02 101.6)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "13a28f15-f4d4-4b68-b22e-8d6dc4217358")
-	)
-	(wire
-		(pts
-			(xy 157.48 104.14) (xy 165.1 104.14)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "13f4ec06-d3e4-489d-bcad-cd708b8b172f")
-	)
-	(wire
-		(pts
-			(xy 157.48 137.16) (xy 165.1 137.16)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "16c584b6-db37-45c3-8220-f7abc755dba2")
-	)
-	(wire
-		(pts
-			(xy 160.02 134.62) (xy 160.02 101.6)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "185bc560-887e-4c5b-b3ff-6b5a51c2623b")
-	)
-	(wire
-		(pts
-			(xy 111.76 121.92) (xy 111.76 101.6)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "2daa7ba5-e885-4170-9ae7-19a127e9dc36")
-	)
-	(wire
-		(pts
-			(xy 88.9 142.24) (xy 88.9 144.78)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "34a33d09-76f7-460c-bf7b-f398eea526a7")
-	)
-	(wire
-		(pts
-			(xy 106.68 121.92) (xy 106.68 104.14)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "35fa79ce-89e6-4467-8478-0ca04ce1b0a8")
-	)
-	(wire
-		(pts
-			(xy 124.46 119.38) (xy 124.46 116.84)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "37547ef4-029b-4f61-aeff-bbc95f0c2017")
-	)
-	(wire
-		(pts
-			(xy 147.32 147.32) (xy 165.1 147.32)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "37a368ab-e564-4bfd-9f23-0152122d88d5")
-	)
-	(wire
-		(pts
-			(xy 154.94 106.68) (xy 154.94 139.7)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "3804c76c-4a6b-40e4-b0bb-876e76ffb122")
-	)
-	(wire
-		(pts
-			(xy 149.86 111.76) (xy 149.86 144.78)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "3988faf4-81e3-4c99-bd8e-dae37a6241af")
-	)
-	(wire
-		(pts
-			(xy 106.68 104.14) (xy 157.48 104.14)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "3fa572b1-2456-4f79-af0f-2ba35f20a399")
-	)
-	(wire
-		(pts
-			(xy 165.1 111.76) (xy 149.86 111.76)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "40e74b5f-c809-4979-a120-e0e91cd51a8c")
-	)
-	(wire
-		(pts
-			(xy 127 88.9) (xy 127 91.44)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "45aef76d-b6f4-41e4-8111-17ab4478147c")
-	)
-	(wire
-		(pts
-			(xy 144.78 116.84) (xy 144.78 149.86)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "4a05c9f0-98ee-4ae2-a233-579aa106100f")
-	)
-	(wire
-		(pts
-			(xy 142.24 119.38) (xy 165.1 119.38)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "56d7bc79-1f93-4b7f-aaa2-cd184d36e4e7")
-	)
-	(wire
-		(pts
-			(xy 73.66 109.22) (xy 73.66 106.68)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "58555e6e-ac78-4200-91d2-f8f43a20a64d")
-	)
-	(wire
-		(pts
-			(xy 111.76 132.08) (xy 111.76 139.7)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "59be8c70-3200-43d7-8f9e-e9544f85081e")
-	)
-	(wire
-		(pts
-			(xy 137.16 66.04) (xy 137.16 55.88)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "5c97302c-fa11-466f-84cb-9d49a421acf9")
-	)
-	(wire
-		(pts
-			(xy 124.46 116.84) (xy 144.78 116.84)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "5e4f1526-df2a-44c4-b555-4af7aa46866f")
-	)
-	(wire
-		(pts
-			(xy 152.4 109.22) (xy 152.4 142.24)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "5eb6e9ff-3b62-415f-a58c-9b14b90d01be")
-	)
-	(wire
-		(pts
-			(xy 142.24 119.38) (xy 142.24 152.4)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "632d9629-a0f7-49a7-a786-fe0fa9a7a4e4")
-	)
-	(wire
-		(pts
-			(xy 124.46 116.84) (xy 124.46 114.3)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "6b4375d8-872f-4c1c-a637-b8ae304b6b89")
-	)
-	(wire
-		(pts
-			(xy 149.86 144.78) (xy 165.1 144.78)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "6dd54ef6-5526-4aa3-8a3e-74a6ef6dca00")
-	)
-	(wire
-		(pts
-			(xy 152.4 142.24) (xy 165.1 142.24)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "6f4adcb0-9fdc-4c88-b88b-f5a168644f5c")
-	)
-	(wire
-		(pts
-			(xy 147.32 114.3) (xy 165.1 114.3)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "70d2be95-6148-42ed-8700-fc8ecc30d04a")
-	)
-	(wire
-		(pts
-			(xy 154.94 106.68) (xy 165.1 106.68)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "72781aa5-130f-4b8a-941d-030a0d656f8c")
-	)
-	(wire
-		(pts
-			(xy 101.6 50.8) (xy 101.6 106.68)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "7419cb58-47be-4b0a-8a0c-5e431fc50c08")
-	)
-	(wire
-		(pts
-			(xy 142.24 152.4) (xy 165.1 152.4)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "7ef62ebd-e434-426f-b218-fcc223543fc3")
-	)
-	(wire
-		(pts
-			(xy 119.38 139.7) (xy 119.38 129.54)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "80b4fc56-a2e7-4e3c-a980-1fc1162b017b")
-	)
-	(wire
-		(pts
-			(xy 96.52 139.7) (xy 101.6 139.7)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "82cf3d61-95c5-4d21-9419-22f576e4c346")
-	)
-	(wire
-		(pts
-			(xy 137.16 55.88) (xy 106.68 55.88)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "82e668cd-9f57-437d-bab7-4aec649e1f6b")
-	)
-	(wire
-		(pts
-			(xy 73.66 116.84) (xy 73.66 119.38)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "882ffdf3-5dcb-4526-9a3b-f1c244dbfc05")
-	)
-	(wire
-		(pts
-			(xy 101.6 132.08) (xy 101.6 139.7)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "8f867b74-8918-4a76-8f84-46943c7f7009")
-	)
-	(wire
-		(pts
-			(xy 165.1 134.62) (xy 160.02 134.62)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "90db220d-00ab-4b23-b104-329fa8d44ab6")
-	)
-	(wire
-		(pts
-			(xy 147.32 50.8) (xy 101.6 50.8)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "9b7d6cd2-97d5-49e5-bd59-b85851a69ec8")
-	)
-	(wire
-		(pts
-			(xy 124.46 114.3) (xy 147.32 114.3)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "9b92eada-50cd-4a24-acb9-f67dc6a78ca1")
-	)
-	(wire
-		(pts
-			(xy 88.9 144.78) (xy 124.46 144.78)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "a1d51ccd-c0f4-43cb-8b0e-de47ac14b93f")
-	)
-	(wire
-		(pts
-			(xy 154.94 139.7) (xy 165.1 139.7)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "a3383e53-9396-4b08-a60d-23bd71ad06ed")
-	)
-	(wire
-		(pts
-			(xy 144.78 149.86) (xy 165.1 149.86)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "a5f00e44-9e8a-4efc-be88-63c98a48c69b")
-	)
-	(wire
-		(pts
-			(xy 124.46 144.78) (xy 124.46 149.86)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "ab95fc7a-2508-4057-a37d-5e61a6b0531c")
-	)
-	(wire
-		(pts
-			(xy 106.68 55.88) (xy 106.68 104.14)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "b586b04e-2ffc-44d0-95c8-b06d532de777")
-	)
-	(wire
-		(pts
-			(xy 157.48 104.14) (xy 157.48 137.16)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "b813caf7-6be8-4f8e-a045-d764c98abf57")
-	)
-	(wire
-		(pts
-			(xy 106.68 139.7) (xy 111.76 139.7)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "bc7a2774-3f17-44cb-b734-368bf31e44b8")
-	)
-	(wire
-		(pts
-			(xy 127 81.28) (xy 127 76.2)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "bc87b2be-6c02-483f-aa49-7542d2846bde")
-	)
-	(wire
-		(pts
-			(xy 73.66 88.9) (xy 73.66 96.52)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "c29fa7cb-c0d7-4835-8521-e8d38ee9d72d")
-	)
-	(wire
-		(pts
-			(xy 137.16 81.28) (xy 137.16 76.2)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "cf756f28-b6dd-4924-b498-dd7ae14ab53d")
-	)
-	(wire
-		(pts
-			(xy 111.76 60.96) (xy 127 60.96)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "d98252df-3cbc-47eb-b277-d7c28c6b1a4f")
-	)
-	(wire
-		(pts
-			(xy 127 60.96) (xy 127 66.04)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "db1c6470-5c15-46e4-8f3d-d2094d30d304")
-	)
-	(wire
-		(pts
-			(xy 147.32 81.28) (xy 147.32 76.2)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "e1b28f1f-581b-428b-92d0-0273d6e898fc")
-	)
-	(wire
-		(pts
-			(xy 144.78 116.84) (xy 165.1 116.84)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "e3fac331-3f61-44b1-bc14-c2adc8ca05ca")
-	)
-	(wire
-		(pts
-			(xy 101.6 121.92) (xy 101.6 106.68)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "e509ff45-23a7-4250-a586-b775a0a8e24a")
-	)
-	(wire
-		(pts
-			(xy 101.6 106.68) (xy 154.94 106.68)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "e6e9e617-1354-43ab-9a15-5fa26bfb4c02")
-	)
-	(wire
-		(pts
-			(xy 106.68 132.08) (xy 106.68 139.7)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "ec48a401-0162-49a8-a9d4-201b56a968d6")
+		(uuid "03116a79-d40b-49d9-8bd5-6a35e0de94dd")
 	)
 	(wire
 		(pts
@@ -2795,47 +2113,87 @@
 			(width 0.1524)
 			(type solid)
 		)
-		(uuid "edc2717f-d5c4-403b-9daf-30f15703db7a")
+		(uuid "0bee1428-8dd3-48bb-bf42-947458fb32f9")
 	)
 	(wire
 		(pts
-			(xy 88.9 139.7) (xy 91.44 139.7)
+			(xy 160.02 134.62) (xy 160.02 101.6)
 		)
 		(stroke
 			(width 0.1524)
 			(type solid)
 		)
-		(uuid "ee1eb8be-22d8-4b1e-82f9-4caff5c5c33c")
+		(uuid "0ddb4a2a-d9e5-4269-a67e-73990991a161")
 	)
 	(wire
 		(pts
-			(xy 160.02 101.6) (xy 165.1 101.6)
+			(xy 165.1 111.76) (xy 149.86 111.76)
 		)
 		(stroke
 			(width 0.1524)
 			(type solid)
 		)
-		(uuid "ee5763f4-8d35-4775-9203-0dfc76c085ca")
+		(uuid "14861c12-da98-41fc-9170-8260eef4fea7")
 	)
 	(wire
 		(pts
-			(xy 111.76 101.6) (xy 111.76 60.96)
+			(xy 106.68 121.92) (xy 106.68 104.14)
 		)
 		(stroke
 			(width 0.1524)
 			(type solid)
 		)
-		(uuid "f27e75a6-67ad-4fff-a142-989aa266ae84")
+		(uuid "19eb192d-f237-475d-92da-b1a9eb3bdff4")
 	)
 	(wire
 		(pts
-			(xy 147.32 88.9) (xy 147.32 91.44)
+			(xy 147.32 81.28) (xy 147.32 76.2)
 		)
 		(stroke
 			(width 0.1524)
 			(type solid)
 		)
-		(uuid "f4bd7c7a-e1b5-4f91-9878-484681d637aa")
+		(uuid "1b9b104a-bccd-4d1d-94a5-f1b34a93eb80")
+	)
+	(wire
+		(pts
+			(xy 142.24 119.38) (xy 165.1 119.38)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "1c356b95-50bf-4a56-a739-5606d794c331")
+	)
+	(wire
+		(pts
+			(xy 106.68 139.7) (xy 111.76 139.7)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "1f4d6041-4226-46b3-bcfd-83b6239e8707")
+	)
+	(wire
+		(pts
+			(xy 111.76 132.08) (xy 111.76 139.7)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "228933c4-f18f-4c08-9947-2dfbc2c372ae")
+	)
+	(wire
+		(pts
+			(xy 137.16 81.28) (xy 137.16 76.2)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "25619288-e1a8-4f50-a2a9-ece1dd6b99bf")
 	)
 	(wire
 		(pts
@@ -2845,7 +2203,157 @@
 			(width 0.1524)
 			(type solid)
 		)
-		(uuid "f53ed379-c30d-41f7-a766-8632fa317eff")
+		(uuid "25981371-d6b0-481d-bf8c-a87c057f6933")
+	)
+	(wire
+		(pts
+			(xy 152.4 109.22) (xy 152.4 142.24)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "25f343f5-79c3-4429-9438-6f4529b38cb8")
+	)
+	(wire
+		(pts
+			(xy 73.66 116.84) (xy 73.66 119.38)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "2a5ac189-349d-4ce4-b130-078141a0d604")
+	)
+	(wire
+		(pts
+			(xy 144.78 116.84) (xy 144.78 149.86)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "2b296da2-e074-44cb-8550-4ac363ac7aca")
+	)
+	(wire
+		(pts
+			(xy 73.66 88.9) (xy 73.66 96.52)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "2e79b5c9-f98b-4933-9eee-cd5310d9e5e3")
+	)
+	(wire
+		(pts
+			(xy 101.6 106.68) (xy 154.94 106.68)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "3718b470-508d-45f6-a3aa-a86fe580a83d")
+	)
+	(wire
+		(pts
+			(xy 101.6 132.08) (xy 101.6 139.7)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "38376f9f-775b-46a8-98be-0af6a2444063")
+	)
+	(wire
+		(pts
+			(xy 154.94 106.68) (xy 165.1 106.68)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "3c8a739b-ea62-40d8-88a5-2fcf7126b2f9")
+	)
+	(wire
+		(pts
+			(xy 127 88.9) (xy 127 91.44)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "40461943-321e-414b-b699-7148a466e176")
+	)
+	(wire
+		(pts
+			(xy 149.86 111.76) (xy 149.86 144.78)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "40b6b74e-f3a6-45ac-bc3c-f74f763de944")
+	)
+	(wire
+		(pts
+			(xy 142.24 119.38) (xy 142.24 152.4)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "4333e05e-099e-4dae-81d7-09b5dae89ce4")
+	)
+	(wire
+		(pts
+			(xy 111.76 101.6) (xy 160.02 101.6)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "433f7f26-9704-492f-aa6b-de793cec82a2")
+	)
+	(wire
+		(pts
+			(xy 88.9 142.24) (xy 88.9 144.78)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "44ae6647-ede7-4401-871a-fa623a0ca9be")
+	)
+	(wire
+		(pts
+			(xy 137.16 55.88) (xy 106.68 55.88)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "4e0bfe9f-128d-4d3b-a029-515eb03b9177")
+	)
+	(wire
+		(pts
+			(xy 124.46 116.84) (xy 124.46 114.3)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "4f8aae7f-758f-401a-9ec8-b18065e6a970")
+	)
+	(wire
+		(pts
+			(xy 119.38 139.7) (xy 119.38 129.54)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "507db314-8a30-4d30-90e7-96353ab01bab")
 	)
 	(wire
 		(pts
@@ -2855,7 +2363,207 @@
 			(width 0.1524)
 			(type solid)
 		)
-		(uuid "f61aaaf2-8933-4795-ab5d-661ac7854d2e")
+		(uuid "56d7287a-2a64-473a-bc3b-c5a5953516ee")
+	)
+	(wire
+		(pts
+			(xy 106.68 55.88) (xy 106.68 104.14)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "5ceb6317-27d7-4fcc-bceb-97140c177b85")
+	)
+	(wire
+		(pts
+			(xy 124.46 144.78) (xy 124.46 149.86)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "5e9d37e6-4dcf-4423-ae23-b37e0205deb8")
+	)
+	(wire
+		(pts
+			(xy 111.76 121.92) (xy 111.76 101.6)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "64b8b78a-8043-4c93-9d9a-6d23e9d0861b")
+	)
+	(wire
+		(pts
+			(xy 106.68 104.14) (xy 157.48 104.14)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "6e5de4b8-32b0-4bc2-bf2b-6027ea88a70b")
+	)
+	(wire
+		(pts
+			(xy 142.24 152.4) (xy 165.1 152.4)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "6fb550cc-edad-4cae-a11a-133ed5d96f3f")
+	)
+	(wire
+		(pts
+			(xy 124.46 144.78) (xy 124.46 119.38)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "79e91615-6895-4bcb-b2d0-b19d13ad8ede")
+	)
+	(wire
+		(pts
+			(xy 124.46 119.38) (xy 124.46 116.84)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "7f1b13a8-1bb3-44a3-bd94-e767f28a5132")
+	)
+	(wire
+		(pts
+			(xy 111.76 60.96) (xy 127 60.96)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "862224a3-a5d1-42b1-b8e8-fcdb584ba310")
+	)
+	(wire
+		(pts
+			(xy 124.46 114.3) (xy 147.32 114.3)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "875602b0-58d4-4fa1-90c2-431b14f3966b")
+	)
+	(wire
+		(pts
+			(xy 101.6 139.7) (xy 106.68 139.7)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "882d3b6c-9b9c-4988-9e55-70c8f6bfdfdb")
+	)
+	(wire
+		(pts
+			(xy 157.48 104.14) (xy 157.48 137.16)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "89f62c64-8580-41c3-9d83-2e4fb4491dc6")
+	)
+	(wire
+		(pts
+			(xy 157.48 104.14) (xy 165.1 104.14)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "8c1eff21-27bf-4ade-bf7d-d11132150710")
+	)
+	(wire
+		(pts
+			(xy 147.32 114.3) (xy 165.1 114.3)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "8d744dea-0d6c-4a84-9056-bd34f9d5e982")
+	)
+	(wire
+		(pts
+			(xy 88.9 139.7) (xy 91.44 139.7)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "8de17d4b-7b12-4392-b43f-09a694864c71")
+	)
+	(wire
+		(pts
+			(xy 124.46 116.84) (xy 144.78 116.84)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "994ad4e1-d29c-4cd8-8cd1-8917fea21d70")
+	)
+	(wire
+		(pts
+			(xy 127 81.28) (xy 127 76.2)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "995d2f86-e3d8-4595-ae78-7658c65ace5d")
+	)
+	(wire
+		(pts
+			(xy 165.1 134.62) (xy 160.02 134.62)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "9aebb8f4-1954-4321-946b-cd85c963f02d")
+	)
+	(wire
+		(pts
+			(xy 144.78 116.84) (xy 165.1 116.84)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "9ee02c94-cd48-4601-90f1-d609745ecdc1")
+	)
+	(wire
+		(pts
+			(xy 147.32 50.8) (xy 101.6 50.8)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "9fc6ea1c-d832-4a22-8964-c9091d2941af")
+	)
+	(wire
+		(pts
+			(xy 154.94 139.7) (xy 165.1 139.7)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "a0c72387-95d8-4b93-8fda-f8c16e6d1ca1")
 	)
 	(wire
 		(pts
@@ -2865,982 +2573,199 @@
 			(width 0.1524)
 			(type solid)
 		)
-		(uuid "f736adc6-83e8-4097-99ff-e01ccf093e60")
+		(uuid "ada72990-291c-4273-b1c7-ba01efe4bed8")
 	)
-	(symbol
-		(lib_id "power_injector_rev_c-eagle-import:LEDCHIP-LED0805")
-		(at 73.66 111.76 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "10138a50-8c49-4a05-8fb6-69a412516469")
-		(property "Reference" "LED1"
-			(at 77.216 116.332 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
+	(wire
+		(pts
+			(xy 88.9 144.78) (xy 124.46 144.78)
 		)
-		(property "Value" "LEDCHIP-LED0805"
-			(at 79.375 116.332 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
+		(stroke
+			(width 0.1524)
+			(type solid)
 		)
-		(property "Footprint" "power_injector_rev_c:CHIP-LED0805"
-			(at 73.66 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 73.66 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 73.66 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "A"
-			(uuid "a5caf125-d518-42f5-956a-6c5a9edaf6c9")
-		)
-		(pin "C"
-			(uuid "bd05e1e3-20ae-47b1-b0a9-664dd3a8e322")
-		)
-		(instances
-			(project "power_injector_rev_c"
-				(path "/47bd3032-e417-4aa5-813e-5d6dc8479352"
-					(reference "LED1")
-					(unit 1)
-				)
-			)
-		)
+		(uuid "b11f5937-7a53-4e34-9ece-8fe446791758")
 	)
-	(symbol
-		(lib_id "power_injector_rev_c-eagle-import:LEDCHIP-LED0805")
-		(at 137.16 83.82 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "19a61c7f-ba24-4d57-83c4-8fc70aa9ca84")
-		(property "Reference" "LED3"
-			(at 140.716 88.392 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
+	(wire
+		(pts
+			(xy 101.6 121.92) (xy 101.6 106.68)
 		)
-		(property "Value" "LEDCHIP-LED0805"
-			(at 142.875 88.392 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
+		(stroke
+			(width 0.1524)
+			(type solid)
 		)
-		(property "Footprint" "power_injector_rev_c:CHIP-LED0805"
-			(at 137.16 83.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 137.16 83.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 137.16 83.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "A"
-			(uuid "3e3111fd-579e-4d1b-b89c-964e9e74cd46")
-		)
-		(pin "C"
-			(uuid "db85aba2-59aa-4b55-9def-0bf95a220e35")
-		)
-		(instances
-			(project "power_injector_rev_c"
-				(path "/47bd3032-e417-4aa5-813e-5d6dc8479352"
-					(reference "LED3")
-					(unit 1)
-				)
-			)
-		)
+		(uuid "b17b2caf-4fa6-4798-8111-47fe9284f9b4")
 	)
-	(symbol
-		(lib_id "power_injector_rev_c-eagle-import:GND")
-		(at 124.46 152.4 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "21d3627f-5d72-4b0f-b7ad-14064b49c499")
-		(property "Reference" "#GND3"
-			(at 124.46 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
+	(wire
+		(pts
+			(xy 157.48 137.16) (xy 165.1 137.16)
 		)
-		(property "Value" "GND"
-			(at 121.92 154.94 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
+		(stroke
+			(width 0.1524)
+			(type solid)
 		)
-		(property "Footprint" ""
-			(at 124.46 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 124.46 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 124.46 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "acfc490c-c0db-469f-b600-340f6a6bc695")
-		)
-		(instances
-			(project "power_injector_rev_c"
-				(path "/47bd3032-e417-4aa5-813e-5d6dc8479352"
-					(reference "#GND3")
-					(unit 1)
-				)
-			)
-		)
+		(uuid "b1ec6ced-ee4a-4b21-9164-0fc065095de5")
 	)
-	(symbol
-		(lib_id "power_injector_rev_c-eagle-import:R-EU_R0805")
-		(at 127 71.12 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "23c206fe-1876-447a-a588-95cfc406ff58")
-		(property "Reference" "R1"
-			(at 125.5014 74.93 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
+	(wire
+		(pts
+			(xy 73.66 109.22) (xy 73.66 106.68)
 		)
-		(property "Value" "4k7"
-			(at 130.302 74.93 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
+		(stroke
+			(width 0.1524)
+			(type solid)
 		)
-		(property "Footprint" "power_injector_rev_c:R0805"
-			(at 127 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 127 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 127 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "7bbe5aa2-dbd5-4f64-92b8-94a8e05b0053")
-		)
-		(pin "2"
-			(uuid "1e16da6b-5cd2-4c90-b9a4-d1d317f850a3")
-		)
-		(instances
-			(project "power_injector_rev_c"
-				(path "/47bd3032-e417-4aa5-813e-5d6dc8479352"
-					(reference "R1")
-					(unit 1)
-				)
-			)
-		)
+		(uuid "b3051f60-8307-41c2-aad3-58d1c05e7b87")
 	)
-	(symbol
-		(lib_id "power_injector_rev_c-eagle-import:+12V")
-		(at 73.66 86.36 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "241a40c7-c809-4f93-8457-328c750bcabd")
-		(property "Reference" "#P+1"
-			(at 73.66 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
+	(wire
+		(pts
+			(xy 154.94 106.68) (xy 154.94 139.7)
 		)
-		(property "Value" "+12V"
-			(at 71.12 91.44 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
+		(stroke
+			(width 0.1524)
+			(type solid)
 		)
-		(property "Footprint" ""
-			(at 73.66 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 73.66 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 73.66 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "ec52432e-86a3-43ba-8dcd-8e45d78ce887")
-		)
-		(instances
-			(project "power_injector_rev_c"
-				(path "/47bd3032-e417-4aa5-813e-5d6dc8479352"
-					(reference "#P+1")
-					(unit 1)
-				)
-			)
-		)
+		(uuid "c44c53ea-b85f-4f53-a17c-bfc0169fe43a")
 	)
-	(symbol
-		(lib_id "power_injector_rev_c-eagle-import:+12V")
-		(at 119.38 127 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "40d3d9c1-5db2-4d11-b553-64c4af1bf242")
-		(property "Reference" "#P+7"
-			(at 119.38 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
+	(wire
+		(pts
+			(xy 137.16 66.04) (xy 137.16 55.88)
 		)
-		(property "Value" "+12V"
-			(at 116.84 132.08 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
+		(stroke
+			(width 0.1524)
+			(type solid)
 		)
-		(property "Footprint" ""
-			(at 119.38 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 119.38 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 119.38 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "31aa16d8-60b7-4b21-bef9-a73ad21f0d1a")
-		)
-		(instances
-			(project "power_injector_rev_c"
-				(path "/47bd3032-e417-4aa5-813e-5d6dc8479352"
-					(reference "#P+7")
-					(unit 1)
-				)
-			)
-		)
+		(uuid "c6778e3f-619d-4c2b-b3ea-d554b9aaa829")
 	)
-	(symbol
-		(lib_id "power_injector_rev_c-eagle-import:GND")
-		(at 73.66 121.92 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "41ff7fd1-fc9f-4b5a-8305-b2193fed4704")
-		(property "Reference" "#GND10"
-			(at 73.66 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
+	(wire
+		(pts
+			(xy 111.76 101.6) (xy 111.76 60.96)
 		)
-		(property "Value" "GND"
-			(at 71.12 124.46 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
+		(stroke
+			(width 0.1524)
+			(type solid)
 		)
-		(property "Footprint" ""
-			(at 73.66 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 73.66 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 73.66 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "560ae85f-fcc3-4ff0-9399-c916657f125b")
-		)
-		(instances
-			(project "power_injector_rev_c"
-				(path "/47bd3032-e417-4aa5-813e-5d6dc8479352"
-					(reference "#GND10")
-					(unit 1)
-				)
-			)
-		)
+		(uuid "d8d007aa-36ec-459e-9325-6e96f14be056")
 	)
-	(symbol
-		(lib_id "power_injector_rev_c-eagle-import:GND")
-		(at 137.16 93.98 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "5edc3c9e-1879-4c35-8074-5bba31c86766")
-		(property "Reference" "#GND2"
-			(at 137.16 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
+	(wire
+		(pts
+			(xy 147.32 88.9) (xy 147.32 91.44)
 		)
-		(property "Value" "GND"
-			(at 134.62 96.52 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
+		(stroke
+			(width 0.1524)
+			(type solid)
 		)
-		(property "Footprint" ""
-			(at 137.16 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 137.16 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 137.16 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "770ebadc-47bf-45cd-81db-1069fe91f1ad")
-		)
-		(instances
-			(project "power_injector_rev_c"
-				(path "/47bd3032-e417-4aa5-813e-5d6dc8479352"
-					(reference "#GND2")
-					(unit 1)
-				)
-			)
-		)
+		(uuid "e6f89d94-b7d5-4ea9-9397-c55464210a8b")
 	)
-	(symbol
-		(lib_id "power_injector_rev_c-eagle-import:R-EU_R0805")
-		(at 147.32 71.12 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "61ec4b1d-fb45-4b89-b6a7-d348406c74ab")
-		(property "Reference" "R4"
-			(at 145.8214 74.93 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
+	(wire
+		(pts
+			(xy 160.02 101.6) (xy 165.1 101.6)
 		)
-		(property "Value" "4k7"
-			(at 150.622 74.93 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
+		(stroke
+			(width 0.1524)
+			(type solid)
 		)
-		(property "Footprint" "power_injector_rev_c:R0805"
-			(at 147.32 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 147.32 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 147.32 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "c9bd1f0a-ff89-4bce-b3ee-733bd71f529e")
-		)
-		(pin "2"
-			(uuid "4b35a1df-bab9-4803-bd43-9bdf40ab2d15")
-		)
-		(instances
-			(project "power_injector_rev_c"
-				(path "/47bd3032-e417-4aa5-813e-5d6dc8479352"
-					(reference "R4")
-					(unit 1)
-				)
-			)
-		)
+		(uuid "e75d3019-4373-48c2-bb9b-ce80033c3b2f")
 	)
-	(symbol
-		(lib_id "power_injector_rev_c-eagle-import:R-EU_0204/5")
-		(at 101.6 127 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "6df923c0-4363-461b-9a94-1a014a4115cf")
-		(property "Reference" "F1"
-			(at 100.1014 130.81 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
+	(wire
+		(pts
+			(xy 127 60.96) (xy 127 66.04)
 		)
-		(property "Value" "MF-R050"
-			(at 99.822 125.73 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
+		(stroke
+			(width 0.1524)
+			(type solid)
 		)
-		(property "Footprint" "power_injector_rev_c:0204_5"
-			(at 101.6 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 101.6 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 101.6 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "68fb6fb4-16f8-4073-aac4-70b16b664a90")
-		)
-		(pin "2"
-			(uuid "3c683f71-c577-4202-901b-f4833e87fd8d")
-		)
-		(instances
-			(project "power_injector_rev_c"
-				(path "/47bd3032-e417-4aa5-813e-5d6dc8479352"
-					(reference "F1")
-					(unit 1)
-				)
-			)
-		)
+		(uuid "ee3c56de-a3b5-4f54-a71c-f29f9701b6c6")
 	)
-	(symbol
-		(lib_id "power_injector_rev_c-eagle-import:DIODE-SMB")
-		(at 93.98 139.7 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "75b53150-4718-461e-876a-90817c0258b9")
-		(property "Reference" "D1"
-			(at 96.52 139.2174 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
+	(wire
+		(pts
+			(xy 96.52 139.7) (xy 101.6 139.7)
 		)
-		(property "Value" "PMEG3015EH,115"
-			(at 96.52 142.0114 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
+		(stroke
+			(width 0.1524)
+			(type solid)
 		)
-		(property "Footprint" "power_injector_rev_c:SMB"
-			(at 93.98 139.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 93.98 139.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 93.98 139.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "A"
-			(uuid "1a994b10-c42b-40eb-bd8c-50d029d9cf66")
-		)
-		(pin "C"
-			(uuid "31f09d11-2950-4d40-9a82-d1a6c3208a96")
-		)
-		(instances
-			(project "power_injector_rev_c"
-				(path "/47bd3032-e417-4aa5-813e-5d6dc8479352"
-					(reference "D1")
-					(unit 1)
-				)
-			)
-		)
+		(uuid "ef7b16df-33cc-473d-b37a-a272bbbb173c")
 	)
-	(symbol
-		(lib_id "power_injector_rev_c-eagle-import:R-EU_0204/5")
-		(at 111.76 127 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "7b469669-f9c0-4ece-a1de-aac6c828e4ca")
-		(property "Reference" "F3"
-			(at 110.2614 130.81 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
+	(wire
+		(pts
+			(xy 149.86 144.78) (xy 165.1 144.78)
 		)
-		(property "Value" "MF-R050"
-			(at 109.982 125.73 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
+		(stroke
+			(width 0.1524)
+			(type solid)
 		)
-		(property "Footprint" "power_injector_rev_c:0204_5"
-			(at 111.76 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
+		(uuid "f13ee3b7-3de5-40e2-962a-7e7d990090fb")
+	)
+	(wire
+		(pts
+			(xy 101.6 50.8) (xy 101.6 106.68)
 		)
-		(property "Datasheet" ""
-			(at 111.76 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
+		(stroke
+			(width 0.1524)
+			(type solid)
 		)
-		(property "Description" ""
-			(at 111.76 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
+		(uuid "f7c1b9c4-8e17-4425-aa43-c014d6c88e31")
+	)
+	(wire
+		(pts
+			(xy 106.68 132.08) (xy 106.68 139.7)
 		)
-		(pin "1"
-			(uuid "fb14a77c-ee46-4157-ac76-0d21e7c60c6f")
+		(stroke
+			(width 0.1524)
+			(type solid)
 		)
-		(pin "2"
-			(uuid "75a27ba0-1173-4dfb-a9d4-418e1e113178")
+		(uuid "f9074cf9-d8aa-4c82-a1ab-d7f65318aeac")
+	)
+	(wire
+		(pts
+			(xy 165.1 109.22) (xy 152.4 109.22)
 		)
-		(instances
-			(project "power_injector_rev_c"
-				(path "/47bd3032-e417-4aa5-813e-5d6dc8479352"
-					(reference "F3")
-					(unit 1)
-				)
-			)
+		(stroke
+			(width 0.1524)
+			(type solid)
 		)
+		(uuid "fa2002c4-cd7a-4181-b925-4661bde748c6")
+	)
+	(wire
+		(pts
+			(xy 144.78 149.86) (xy 165.1 149.86)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "fc4e52d3-faf5-4f24-9a8d-1b1e564cf8f8")
+	)
+	(wire
+		(pts
+			(xy 152.4 142.24) (xy 165.1 142.24)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "fcd7675b-d17f-4601-93b9-25e50eb67882")
+	)
+	(wire
+		(pts
+			(xy 147.32 147.32) (xy 165.1 147.32)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "fd42e769-d80a-49a2-82ba-7cdb2a6f2643")
 	)
 	(symbol
 		(lib_id "power_injector_rev_c-eagle-import:R-EU_R0805")
 		(at 73.66 101.6 90)
 		(unit 1)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
-		(uuid "7d0ccdb1-ebfe-4705-a7cd-881409412d49")
+		(uuid "0d2ace07-14c8-46cb-a8bb-b427208a93d9")
 		(property "Reference" "R3"
 			(at 72.1614 105.41 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -3850,8 +2775,6 @@
 		)
 		(property "Value" "4k7"
 			(at 76.962 105.41 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -3861,46 +2784,40 @@
 		)
 		(property "Footprint" "power_injector_rev_c:R0805"
 			(at 73.66 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 73.66 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 73.66 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
-			(uuid "8e04a5be-a1f3-4787-bce9-ecba8ebb7ae1")
+			(uuid "4d010470-d657-4475-866e-e972b1aa3f31")
 		)
 		(pin "2"
-			(uuid "ca03cd50-b988-4aed-9975-ee2ee7e28896")
+			(uuid "526bc06e-f34f-48d4-966f-23ca683dd3c6")
 		)
 		(instances
-			(project "power_injector_rev_c"
-				(path "/47bd3032-e417-4aa5-813e-5d6dc8479352"
+			(project ""
+				(path "/7423aa41-8104-411d-b4c9-a3ca20e8cc07"
 					(reference "R3")
 					(unit 1)
 				)
@@ -3908,100 +2825,271 @@
 		)
 	)
 	(symbol
-		(lib_id "power_injector_rev_c-eagle-import:A00-108-220-450")
-		(at 165.1 142.24 0)
+		(lib_id "power_injector_rev_c-eagle-import:+12V")
+		(at 73.66 86.36 0)
 		(unit 1)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
-		(uuid "9639dd39-80c0-4483-959f-1a84191d7fdf")
-		(property "Reference" "J2"
-			(at 167.64 132.08 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "A00-108-220-450"
-			(at 165.1 155.956 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "power_injector_rev_c:RJ-45"
-			(at 165.1 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
+		(uuid "114fa00f-3f1d-4753-a9e9-dbe545516328")
+		(property "Reference" "#P+1"
+			(at 73.66 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+12V"
+			(at 71.12 91.44 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 73.66 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
-			(at 165.1 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
+			(at 73.66 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
-			(at 165.1 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
+			(at 73.66 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
-			(uuid "71ad097e-15c2-4024-9d9f-c49daa31420e")
-		)
-		(pin "2"
-			(uuid "813cb43e-7a63-41df-94d6-d0fb870593f9")
-		)
-		(pin "3"
-			(uuid "bd74f716-1d35-4099-810e-2e3400c9290e")
-		)
-		(pin "4"
-			(uuid "fcce9298-f712-4bfb-babb-c632889e3d67")
-		)
-		(pin "5"
-			(uuid "656ed002-cdf5-4830-ad17-3a8a1cf4fbc6")
-		)
-		(pin "6"
-			(uuid "f2b5cac7-04e1-40ee-89d9-71d0e3d9b8cc")
-		)
-		(pin "7"
-			(uuid "5589e9ca-fcbc-46e6-9344-05e1e3548de5")
-		)
-		(pin "8"
-			(uuid "f9b5e266-e1e7-4568-8f37-d4412813ca3c")
+			(uuid "b40d65e2-ccde-4fa1-bc14-fb39e6e0896d")
 		)
 		(instances
-			(project "power_injector_rev_c"
-				(path "/47bd3032-e417-4aa5-813e-5d6dc8479352"
-					(reference "J2")
+			(project ""
+				(path "/7423aa41-8104-411d-b4c9-a3ca20e8cc07"
+					(reference "#P+1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power_injector_rev_c-eagle-import:LEDCHIP-LED0805")
+		(at 137.16 83.82 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1165bc48-3ba3-48f6-80d2-89a7b4456e79")
+		(property "Reference" "LED3"
+			(at 140.716 88.392 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "LEDCHIP-LED0805"
+			(at 142.875 88.392 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "power_injector_rev_c:CHIP-LED0805"
+			(at 137.16 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 137.16 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 137.16 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "A"
+			(uuid "ffb54736-0e72-491d-9bf0-a2ffc40a3beb")
+		)
+		(pin "C"
+			(uuid "8910fdae-c650-40a3-93c8-caf629528405")
+		)
+		(instances
+			(project ""
+				(path "/7423aa41-8104-411d-b4c9-a3ca20e8cc07"
+					(reference "LED3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power_injector_rev_c-eagle-import:R-EU_0204/5")
+		(at 101.6 127 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2ca75120-00f8-4332-85e3-1705a8332910")
+		(property "Reference" "F1"
+			(at 100.1014 130.81 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "MF-R050"
+			(at 99.822 125.73 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "power_injector_rev_c:0204_5"
+			(at 101.6 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 101.6 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 101.6 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f4e29c58-631b-4483-8b42-e907760faa19")
+		)
+		(pin "2"
+			(uuid "603a7d02-0565-4b01-ad80-63c69ec3205b")
+		)
+		(instances
+			(project ""
+				(path "/7423aa41-8104-411d-b4c9-a3ca20e8cc07"
+					(reference "F1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power_injector_rev_c-eagle-import:+12V")
+		(at 119.38 127 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3b5d2066-25a5-4037-9ecc-cbbd1b2b8f8e")
+		(property "Reference" "#P+7"
+			(at 119.38 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+12V"
+			(at 116.84 132.08 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 119.38 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 119.38 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 119.38 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d00e9d8a-e066-4372-b446-1d0b16066cac")
+		)
+		(instances
+			(project ""
+				(path "/7423aa41-8104-411d-b4c9-a3ca20e8cc07"
+					(reference "#P+7")
 					(unit 1)
 				)
 			)
@@ -4011,17 +3099,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:R-EU_R0805")
 		(at 137.16 71.12 90)
 		(unit 1)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
-		(uuid "b0ab1baa-2b8c-4511-bf3a-efd7418cde22")
+		(uuid "4109d85e-f616-470d-b777-9b650c0b2b1f")
 		(property "Reference" "R2"
 			(at 135.6614 74.93 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -4031,8 +3115,6 @@
 		)
 		(property "Value" "4k7"
 			(at 140.462 74.93 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -4042,129 +3124,41 @@
 		)
 		(property "Footprint" "power_injector_rev_c:R0805"
 			(at 137.16 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 137.16 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 137.16 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
-			(uuid "0e98a779-08c8-459d-abb7-22b68491098a")
+			(uuid "11cf968d-ef3b-4a1c-b31d-4ae8291e7548")
 		)
 		(pin "2"
-			(uuid "fea5477c-3d32-4915-9620-70c5b724f3b2")
+			(uuid "f3f66f0a-7d77-4a90-b279-3145f6307c45")
 		)
 		(instances
-			(project "power_injector_rev_c"
-				(path "/47bd3032-e417-4aa5-813e-5d6dc8479352"
+			(project ""
+				(path "/7423aa41-8104-411d-b4c9-a3ca20e8cc07"
 					(reference "R2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power_injector_rev_c-eagle-import:LEDCHIP-LED0805")
-		(at 147.32 83.82 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "bfc9c5a0-7b91-49a6-8a05-5056031b8f41")
-		(property "Reference" "LED4"
-			(at 150.876 88.392 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "LEDCHIP-LED0805"
-			(at 153.035 88.392 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "power_injector_rev_c:CHIP-LED0805"
-			(at 147.32 83.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 147.32 83.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 147.32 83.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "A"
-			(uuid "3144bdd6-45cd-4b57-a835-85f20de58e69")
-		)
-		(pin "C"
-			(uuid "e5462c8e-8eeb-4e63-a592-65498edc0a59")
-		)
-		(instances
-			(project "power_injector_rev_c"
-				(path "/47bd3032-e417-4aa5-813e-5d6dc8479352"
-					(reference "LED4")
 					(unit 1)
 				)
 			)
@@ -4174,28 +3168,22 @@
 		(lib_id "power_injector_rev_c-eagle-import:GND")
 		(at 147.32 93.98 0)
 		(unit 1)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
-		(uuid "d0e68f1b-3945-48a2-b276-2dd7e21996b5")
+		(uuid "43bbbbf2-fc3f-4f73-991d-937f9e659fad")
 		(property "Reference" "#GND4"
 			(at 147.32 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "GND"
 			(at 144.78 96.52 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -4205,207 +3193,38 @@
 		)
 		(property "Footprint" ""
 			(at 147.32 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 147.32 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 147.32 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
-			(uuid "7740c555-54de-4342-b2fd-db6f086add29")
+			(uuid "2a79df9a-0246-491c-be7b-f1a30b6f644b")
 		)
 		(instances
-			(project "power_injector_rev_c"
-				(path "/47bd3032-e417-4aa5-813e-5d6dc8479352"
+			(project ""
+				(path "/7423aa41-8104-411d-b4c9-a3ca20e8cc07"
 					(reference "#GND4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power_injector_rev_c-eagle-import:R-EU_0204/5")
-		(at 106.68 127 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "d2c38be5-0a5f-4a6c-ae97-5e6e357121d6")
-		(property "Reference" "F2"
-			(at 105.1814 130.81 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "MF-R050"
-			(at 104.902 125.73 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "power_injector_rev_c:0204_5"
-			(at 106.68 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 106.68 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 106.68 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "04d7293f-2a82-4ee8-ac2b-5b9394c4ede0")
-		)
-		(pin "2"
-			(uuid "ff259d36-e5cf-4690-af6b-230adee501f9")
-		)
-		(instances
-			(project "power_injector_rev_c"
-				(path "/47bd3032-e417-4aa5-813e-5d6dc8479352"
-					(reference "F2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power_injector_rev_c-eagle-import:LEDCHIP-LED0805")
-		(at 127 83.82 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "d72a93f3-bee8-4f82-9c22-70bc7fb804b5")
-		(property "Reference" "LED2"
-			(at 130.556 88.392 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "LEDCHIP-LED0805"
-			(at 132.715 88.392 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "power_injector_rev_c:CHIP-LED0805"
-			(at 127 83.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 127 83.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 127 83.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "A"
-			(uuid "e4d2f432-2cf8-469e-90ff-992a2d662804")
-		)
-		(pin "C"
-			(uuid "6409268d-6eec-4973-9db9-6cd5b86f8c5e")
-		)
-		(instances
-			(project "power_injector_rev_c"
-				(path "/47bd3032-e417-4aa5-813e-5d6dc8479352"
-					(reference "LED2")
 					(unit 1)
 				)
 			)
@@ -4415,17 +3234,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:A00-108-220-450")
 		(at 165.1 109.22 0)
 		(unit 1)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
-		(uuid "d95de21f-fb0a-4ed4-9bf1-3470c40ea429")
+		(uuid "48b92522-27b5-4588-8062-7d41a0cd8a40")
 		(property "Reference" "J3"
 			(at 167.64 124.46 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -4435,9 +3250,85 @@
 		)
 		(property "Value" "A00-108-220-450"
 			(at 165.1 122.936 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "power_injector_rev_c:RJ-45"
+			(at 165.1 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 165.1 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 165.1 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9c73655b-5701-45e8-b412-da1e4b9300a7")
+		)
+		(pin "2"
+			(uuid "766a8d7a-b2bc-47a0-b5fb-b94f0a0b2cf6")
+		)
+		(pin "3"
+			(uuid "f7ab2ff0-09cd-4559-adc4-bc38c84150e3")
+		)
+		(pin "4"
+			(uuid "b0e29330-df30-4d52-9f76-09c65c7e3151")
+		)
+		(pin "5"
+			(uuid "7b202717-d9b1-4c25-9942-c02c0faa5ab8")
+		)
+		(pin "6"
+			(uuid "545602c5-30b2-4fa3-98ce-617e6082a951")
+		)
+		(pin "7"
+			(uuid "97b67672-8710-4345-b162-a36448e4c9bc")
+		)
+		(pin "8"
+			(uuid "ecf373ed-5d70-4a9f-8e99-cca86d76ef9c")
+		)
+		(instances
+			(project ""
+				(path "/7423aa41-8104-411d-b4c9-a3ca20e8cc07"
+					(reference "J3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power_injector_rev_c-eagle-import:R-EU_0204/5")
+		(at 111.76 127 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "54712607-9bed-4490-a963-ab72093f2689")
+		(property "Reference" "F3"
+			(at 110.2614 130.81 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -4445,67 +3336,278 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "power_injector_rev_c:RJ-45"
-			(at 165.1 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
+		(property "Value" "MF-R050"
+			(at 109.982 125.73 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "power_injector_rev_c:0204_5"
+			(at 111.76 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
-			(at 165.1 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
+			(at 111.76 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
-			(at 165.1 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
+			(at 111.76 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
-			(uuid "b84eac3b-dc73-429b-acef-5d9691e6c3eb")
+			(uuid "723df522-f13d-490d-bc48-a448244d6c6d")
 		)
 		(pin "2"
-			(uuid "ae6f2a2b-a737-468c-9337-abcf07ba761f")
-		)
-		(pin "3"
-			(uuid "4555ce28-418e-4290-8265-078e7060c468")
-		)
-		(pin "4"
-			(uuid "0b14f6df-5596-4bdb-9e18-e2da8cc3d4b6")
-		)
-		(pin "5"
-			(uuid "8d280c0d-c858-494f-b1c1-b63bc52a6a56")
-		)
-		(pin "6"
-			(uuid "de84ad01-bddc-4414-8f65-333fba858125")
-		)
-		(pin "7"
-			(uuid "f1bf1d8b-4f40-411d-8bf6-b3f147c0a536")
-		)
-		(pin "8"
-			(uuid "acff99d5-fb3b-4937-a96e-fbe09f5fa694")
+			(uuid "173ffb53-6843-4ee7-ae7c-471d96a7e746")
 		)
 		(instances
-			(project "power_injector_rev_c"
-				(path "/47bd3032-e417-4aa5-813e-5d6dc8479352"
-					(reference "J3")
+			(project ""
+				(path "/7423aa41-8104-411d-b4c9-a3ca20e8cc07"
+					(reference "F3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power_injector_rev_c-eagle-import:R-EU_R0805")
+		(at 127 71.12 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5d29e5fb-8207-4f00-8d3c-2d06e5fdc9db")
+		(property "Reference" "R1"
+			(at 125.5014 74.93 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "4k7"
+			(at 130.302 74.93 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "power_injector_rev_c:R0805"
+			(at 127 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 127 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 127 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ac1b440c-4fe4-4d61-a49e-2a64669932df")
+		)
+		(pin "2"
+			(uuid "b8c310fc-dd3a-4095-bbe9-114fe34a1f59")
+		)
+		(instances
+			(project ""
+				(path "/7423aa41-8104-411d-b4c9-a3ca20e8cc07"
+					(reference "R1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power_injector_rev_c-eagle-import:A00-108-220-450")
+		(at 165.1 142.24 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6f5975f1-f8cb-4abd-a505-81bab09c864b")
+		(property "Reference" "J2"
+			(at 167.64 132.08 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "A00-108-220-450"
+			(at 165.1 155.956 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "power_injector_rev_c:RJ-45"
+			(at 165.1 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 165.1 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 165.1 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f62b2c92-c995-4975-aa6a-624e2c97244f")
+		)
+		(pin "2"
+			(uuid "1c4819db-91d6-4192-82a0-4a0afbb87901")
+		)
+		(pin "3"
+			(uuid "02b0a2c9-847a-4e17-8b2a-4aa625d18c40")
+		)
+		(pin "4"
+			(uuid "0e52fda7-c1de-44f0-9403-69698ac23676")
+		)
+		(pin "5"
+			(uuid "11762f35-7df7-44ae-8324-0d46429e88e6")
+		)
+		(pin "6"
+			(uuid "5790daf8-abde-4c8a-9152-5a2b74f13e4f")
+		)
+		(pin "7"
+			(uuid "7acf5cd1-c621-44a7-9632-98a29a9e8299")
+		)
+		(pin "8"
+			(uuid "7ec1faf6-9fd2-4dd6-adca-3e77d7ac1901")
+		)
+		(instances
+			(project ""
+				(path "/7423aa41-8104-411d-b4c9-a3ca20e8cc07"
+					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power_injector_rev_c-eagle-import:R-EU_R0805")
+		(at 147.32 71.12 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9fde59a4-c57c-489e-bbf7-eab0099cd006")
+		(property "Reference" "R4"
+			(at 145.8214 74.93 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "4k7"
+			(at 150.622 74.93 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "power_injector_rev_c:R0805"
+			(at 147.32 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 147.32 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 147.32 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "728f0904-3d02-4651-aa37-bf9927772a40")
+		)
+		(pin "2"
+			(uuid "2fb1eff0-493e-4687-9993-3d07654069f8")
+		)
+		(instances
+			(project ""
+				(path "/7423aa41-8104-411d-b4c9-a3ca20e8cc07"
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -4515,28 +3617,22 @@
 		(lib_id "power_injector_rev_c-eagle-import:GND")
 		(at 127 93.98 0)
 		(unit 1)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
-		(uuid "e1573c2f-f5fa-4c7b-b59e-c3a128a79e14")
+		(uuid "a16e3042-a441-49af-8356-791149c723ec")
 		(property "Reference" "#GND1"
 			(at 127 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "GND"
 			(at 124.46 96.52 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -4546,44 +3642,584 @@
 		)
 		(property "Footprint" ""
 			(at 127 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 127 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 127 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
-			(uuid "8241bd5e-6d33-4f6a-b1b5-5757f98f8730")
+			(uuid "f11f21ef-fe32-4f5e-8f58-cc23fc421494")
 		)
 		(instances
-			(project "power_injector_rev_c"
-				(path "/47bd3032-e417-4aa5-813e-5d6dc8479352"
+			(project ""
+				(path "/7423aa41-8104-411d-b4c9-a3ca20e8cc07"
 					(reference "#GND1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power_injector_rev_c-eagle-import:DIODE-SMB")
+		(at 93.98 139.7 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a360d922-51aa-4191-ac05-f6115cca21fb")
+		(property "Reference" "D1"
+			(at 96.52 139.2174 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "PMEG3015EH,115"
+			(at 96.52 142.0114 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "power_injector_rev_c:SMB"
+			(at 93.98 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 93.98 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 93.98 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "A"
+			(uuid "8cab5e56-b95b-4b77-ab9e-b773bfd1a985")
+		)
+		(pin "C"
+			(uuid "3407370b-8d10-432f-b9a9-bd1cb77578bc")
+		)
+		(instances
+			(project ""
+				(path "/7423aa41-8104-411d-b4c9-a3ca20e8cc07"
+					(reference "D1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power_injector_rev_c-eagle-import:LEDCHIP-LED0805")
+		(at 127 83.82 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b5dac9cb-69bc-4c8a-85e8-ae8da2ff42d2")
+		(property "Reference" "LED2"
+			(at 130.556 88.392 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "LEDCHIP-LED0805"
+			(at 132.715 88.392 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "power_injector_rev_c:CHIP-LED0805"
+			(at 127 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 127 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 127 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "A"
+			(uuid "574f0cf5-0ebe-4038-ad54-d2c97b8a9747")
+		)
+		(pin "C"
+			(uuid "7eb021fd-8585-4d1a-9d9e-b87896d16ffb")
+		)
+		(instances
+			(project ""
+				(path "/7423aa41-8104-411d-b4c9-a3ca20e8cc07"
+					(reference "LED2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power_injector_rev_c-eagle-import:GND")
+		(at 137.16 93.98 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c8a183fd-5d94-4832-a6c4-f53ed846624e")
+		(property "Reference" "#GND2"
+			(at 137.16 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 134.62 96.52 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 137.16 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 137.16 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 137.16 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9817f0da-dc81-4c09-a77a-218de88d6ba4")
+		)
+		(instances
+			(project ""
+				(path "/7423aa41-8104-411d-b4c9-a3ca20e8cc07"
+					(reference "#GND2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power_injector_rev_c-eagle-import:LEDCHIP-LED0805")
+		(at 73.66 111.76 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d17e5a33-3864-42ce-926b-5c490edc0042")
+		(property "Reference" "LED1"
+			(at 77.216 116.332 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "LEDCHIP-LED0805"
+			(at 79.375 116.332 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "power_injector_rev_c:CHIP-LED0805"
+			(at 73.66 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 73.66 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 73.66 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "A"
+			(uuid "19f530e7-a80b-451c-9578-9017b5685833")
+		)
+		(pin "C"
+			(uuid "2b4002e9-10d4-4e1c-9427-1212c1f7164a")
+		)
+		(instances
+			(project ""
+				(path "/7423aa41-8104-411d-b4c9-a3ca20e8cc07"
+					(reference "LED1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power_injector_rev_c-eagle-import:GND")
+		(at 124.46 152.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d729f85d-c927-41fa-a4c1-4dafe39821fa")
+		(property "Reference" "#GND3"
+			(at 124.46 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 121.92 154.94 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 124.46 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 124.46 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 124.46 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "50da5f11-b105-4f11-85cb-38b5b88f1c96")
+		)
+		(instances
+			(project ""
+				(path "/7423aa41-8104-411d-b4c9-a3ca20e8cc07"
+					(reference "#GND3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power_injector_rev_c-eagle-import:GND")
+		(at 73.66 121.92 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d90491f8-78be-4f01-a35f-3bc9eeb7216c")
+		(property "Reference" "#GND10"
+			(at 73.66 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 71.12 124.46 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 73.66 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 73.66 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 73.66 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8266ad64-3fa7-4de1-b6aa-ea3e05a3813e")
+		)
+		(instances
+			(project ""
+				(path "/7423aa41-8104-411d-b4c9-a3ca20e8cc07"
+					(reference "#GND10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power_injector_rev_c-eagle-import:R-EU_0204/5")
+		(at 106.68 127 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ede5bb49-221b-404c-ab81-9ebea765f58f")
+		(property "Reference" "F2"
+			(at 105.1814 130.81 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "MF-R050"
+			(at 104.902 125.73 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "power_injector_rev_c:0204_5"
+			(at 106.68 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 106.68 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 106.68 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7099d6e3-754c-46fb-a2c7-ff42c3da38df")
+		)
+		(pin "2"
+			(uuid "3e5a85e7-8d52-4207-8ff3-1d0469558e00")
+		)
+		(instances
+			(project ""
+				(path "/7423aa41-8104-411d-b4c9-a3ca20e8cc07"
+					(reference "F2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power_injector_rev_c-eagle-import:LEDCHIP-LED0805")
+		(at 147.32 83.82 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f49e5ece-7ccf-48ab-9959-1304b20f504a")
+		(property "Reference" "LED4"
+			(at 150.876 88.392 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "LEDCHIP-LED0805"
+			(at 153.035 88.392 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "power_injector_rev_c:CHIP-LED0805"
+			(at 147.32 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 147.32 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 147.32 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "A"
+			(uuid "7ffb4cd3-6d5d-4e7c-b705-e49af519b0aa")
+		)
+		(pin "C"
+			(uuid "c5d332f4-06b1-4a36-8114-a32d1da1c0c4")
+		)
+		(instances
+			(project ""
+				(path "/7423aa41-8104-411d-b4c9-a3ca20e8cc07"
+					(reference "LED4")
 					(unit 1)
 				)
 			)
@@ -4593,17 +4229,13 @@
 		(lib_id "power_injector_rev_c-eagle-import:JACK-PLUG0")
 		(at 83.82 142.24 0)
 		(unit 1)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
-		(uuid "f8084811-fd3f-4654-b398-0686c617e075")
+		(uuid "f78de8fa-3117-46ec-b487-81d0aed54639")
 		(property "Reference" "J4"
 			(at 76.2 137.16 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -4613,61 +4245,53 @@
 		)
 		(property "Value" "JACK-PLUG0"
 			(at 76.2 147.32 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "power_injector_rev_c:SPC4077"
 			(at 83.82 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 83.82 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
 			(at 83.82 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "3"
-			(uuid "da849639-b657-4edb-b723-1bcf4e12970e")
+			(uuid "456150b5-8c5c-4fdd-b8dd-51ae95673b16")
 		)
 		(pin "2"
-			(uuid "369c7ad6-aab8-43cd-8681-a138d0fbc2ea")
+			(uuid "8afff55b-eeb9-4344-aed3-def870e453aa")
 		)
 		(pin "1"
-			(uuid "e76e4a9f-cd0a-4500-96b4-5b8e56d4d5bd")
+			(uuid "096a8e6a-b584-4dd8-aceb-8f423a5c24ca")
 		)
 		(instances
-			(project "power_injector_rev_c"
-				(path "/47bd3032-e417-4aa5-813e-5d6dc8479352"
+			(project ""
+				(path "/7423aa41-8104-411d-b4c9-a3ca20e8cc07"
 					(reference "J4")
 					(unit 1)
 				)
